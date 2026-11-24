@@ -1,0 +1,1001 @@
+CustomerID,Region,Sales,Discount,Date,ProductID,Quantity,Return,CustomerType,SalesChannel,PaymentMethod,SatisfactionScore,ProductCategory
+1001,East,21708.77988,,21:48.1,164,16,0,VIP,Online,Credit Card,3,Electronics
+1002,West,29380.8542,5,40:43.2,156,22,0,New,In-Store,Bank Transfer,6,Sports
+1003,North,24752.11919,15,05:45.9,192,85,0,New,In-Store,Credit Card,2,Health & Beauty
+1004,East,17115.48172,5,59:49.2,198,54,0,Returning,Direct,Cash,10,Sports
+1005,East,15507.92664,,48:28.1,139,21,0,New,In-Store,Credit Card,1,Sports
+1006,nan,22459.59586,15,47:44.9,113,72,0,New,Online,Credit Card,1,Home & Kitchen
+1007,North,13398.83396,,43:25.4,134,16,1,New,Direct,Cash,5,Books
+1008,North,29157.29383,5,19:49.2,147,59,0,Returning,Online,Cash,4,Books
+1009,East,25897.2006,15,51:21.1,183,31,0,New,Direct,Credit Card,1,Toys
+1010,South,17654.12174,5,29:54.6,155,42,0,VIP,Direct,Cash,4,Sports
+1011,East,11434.32735,,52:58.4,148,74,0,Returning,In-Store,Cash,3,Books
+1012,East,26769.36187,,01:04.9,112,32,0,Returning,Online,Cash,2,Health & Beauty
+1013,East,19427.30077,5,07:12.4,160,59,0,VIP,Direct,Cash,9,Clothing
+1014,East,,15,45:02.7,148,34,0,VIP,In-Store,Cash,1,Health & Beauty
+1015,West,12027.86171,5,18:44.3,145,9,0,VIP,Direct,Cash,7,Electronics
+1016,nan,,,32:04.3,161,81,0,New,Direct,Bank Transfer,4,Books
+1017,West,20026.2185,5,43:57.8,107,11,0,VIP,Direct,Credit Card,5,Books
+1018,West,20234.90297,,23:36.2,142,96,0,New,Direct,Cash,10,Toys
+1019,West,17749.67264,5,16:34.6,119,10,0,Returning,Direct,Credit Card,5,Sports
+1020,East,23114.24966,15,32:25.9,196,86,0,Returning,Direct,Bank Transfer,1,Clothing
+1021,South,14661.89785,15,36:45.4,189,17,0,VIP,In-Store,Cash,6,Books
+1022,North,19288.10257,5,25:56.8,138,68,0,New,Direct,Credit Card,9,Toys
+1023,South,20601.47816,5,22:09.7,184,48,0,VIP,Online,Cash,2,Toys
+1024,West,22572.19417,15,05:45.9,148,52,1,VIP,In-Store,Cash,7,Clothing
+1025,West,23558.07439,,04:19.5,163,25,0,New,Online,Cash,6,Health & Beauty
+1026,South,14376.78954,15,52:25.9,161,21,0,VIP,Direct,Cash,5,Health & Beauty
+1027,South,12329.42915,,01:48.1,153,65,0,Returning,Online,Cash,4,Health & Beauty
+1028,South,26388.38411,5,39:49.2,108,63,0,VIP,Direct,Cash,4,Home & Kitchen
+1029,West,21661.57006,5,25:13.5,187,89,0,New,Direct,Cash,6,Sports
+1030,West,16257.56732,,23:36.2,136,51,0,New,In-Store,Bank Transfer,4,Sports
+1031,North,27755.75988,5,42:53.0,148,36,0,Returning,In-Store,Bank Transfer,5,Health & Beauty
+1032,North,20578.37317,,15:51.4,140,81,0,New,Direct,Cash,6,Clothing
+1033,West,25896.48592,10,26:50.8,116,88,0,New,In-Store,Cash,5,Home & Kitchen
+1034,South,,15,52:58.4,187,66,0,Returning,Online,Bank Transfer,7,Sports
+1035,South,30303.73962,10,49:00.5,120,15,0,VIP,In-Store,Bank Transfer,9,Health & Beauty
+1036,North,28776.70421,,58:44.3,150,96,0,Returning,In-Store,Bank Transfer,10,Home & Kitchen
+1037,West,18755.17926,15,53:09.2,158,39,0,VIP,Online,Cash,7,Clothing
+1038,North,24857.85475,,44:51.9,138,70,0,Returning,In-Store,Credit Card,7,Health & Beauty
+1039,North,23226.87975,15,39:05.9,154,1,0,VIP,Direct,Credit Card,4,Electronics
+1040,East,26843.15779,15,40:43.2,140,23,0,Returning,Online,Credit Card,1,Books
+1041,East,15175.3827,15,44:41.1,138,39,0,VIP,Direct,Credit Card,8,Clothing
+1042,East,23430.2573,15,24:41.1,112,57,1,Returning,Online,Cash,4,Toys
+1043,South,25292.12243,,50:27.0,163,81,1,VIP,Direct,Credit Card,1,Toys
+1044,West,11206.30257,15,47:34.1,110,34,0,Returning,Direct,Bank Transfer,5,Clothing
+1045,West,,15,40:54.1,118,41,0,New,In-Store,Bank Transfer,8,Toys
+1046,West,9803.839111,10,42:42.2,110,93,0,VIP,Direct,Credit Card,4,Sports
+1047,West,18652.96583,5,18:55.1,176,73,0,Returning,In-Store,Bank Transfer,8,Clothing
+1048,East,23587.71128,5,24:30.3,145,13,0,VIP,Online,Cash,8,Electronics
+1049,South,27511.78526,10,06:29.2,144,70,0,VIP,Direct,Credit Card,3,Clothing
+1050,South,20370.4739,10,19:05.9,100,6,0,Returning,Direct,Credit Card,9,Health & Beauty
+1051,East,28143.07773,,55:40.5,139,84,0,VIP,Online,Cash,3,Health & Beauty
+1052,South,13099.49271,,20:10.8,118,52,0,Returning,Online,Bank Transfer,1,Home & Kitchen
+1053,East,11483.0878,,24:08.6,175,3,0,New,Direct,Cash,2,Toys
+1054,West,19722.26151,10,25:02.7,171,81,0,VIP,Online,Cash,6,Books
+1055,East,21920.32724,10,54:46.5,171,63,0,New,In-Store,Bank Transfer,10,Toys
+1056,West,19836.52626,15,33:20.0,160,49,0,VIP,Online,Cash,2,Sports
+1057,West,9662.7895,,43:47.0,111,76,0,VIP,Online,Bank Transfer,6,Clothing
+1058,North,,,39:16.8,160,47,0,VIP,Direct,Bank Transfer,1,Books
+1059,East,13477.6525,,36:13.0,132,55,0,Returning,In-Store,Cash,1,Books
+1060,North,23348.36274,5,02:42.2,144,64,0,New,Online,Bank Transfer,5,Toys
+1061,East,21832.99123,15,26:07.6,189,65,0,VIP,In-Store,Cash,10,Books
+1062,East,15300.60107,,28:38.9,191,81,0,Returning,In-Store,Bank Transfer,9,Books
+1063,North,17430.66541,,11:53.5,168,67,0,VIP,In-Store,Credit Card,8,Health & Beauty
+1064,North,14703.93239,,23:36.2,107,90,0,Returning,Direct,Bank Transfer,3,Electronics
+1065,East,19686.60451,5,55:08.1,124,15,0,VIP,Online,Bank Transfer,3,Clothing
+1066,South,24775.7116,5,24:19.5,190,32,0,New,Direct,Cash,1,Toys
+1067,West,15071.36977,10,19:27.6,145,96,0,New,Online,Bank Transfer,3,Health & Beauty
+1068,North,22520.23258,15,09:22.2,186,68,0,VIP,Online,Credit Card,1,Sports
+1069,West,17348.71191,10,44:30.3,129,18,0,Returning,Direct,Credit Card,8,Sports
+1070,nan,16035.63584,15,49:11.4,146,83,1,VIP,In-Store,Bank Transfer,1,Home & Kitchen
+1071,South,19464.8482,5,03:03.8,186,43,0,Returning,In-Store,Bank Transfer,5,Books
+1072,South,14823.78839,,50:59.5,148,35,0,VIP,Online,Credit Card,9,Books
+1073,North,17231.75347,10,43:14.6,146,78,0,Returning,Direct,Cash,7,Toys
+1074,South,14010.61054,,10:59.5,183,58,0,New,In-Store,Credit Card,4,Electronics
+1075,North,29823.62566,10,10:37.8,181,33,1,VIP,In-Store,Credit Card,9,Electronics
+1076,South,20176.31776,5,30:27.0,117,14,0,New,Online,Bank Transfer,9,Toys
+1077,West,16501.37246,5,47:44.9,165,34,0,New,Online,Bank Transfer,2,Toys
+1078,West,21069.89955,5,38:01.1,167,61,0,VIP,Direct,Credit Card,10,Health & Beauty
+1079,nan,19438.35975,10,02:53.0,193,4,0,VIP,Online,Cash,10,Sports
+1080,West,18895.152,15,34:24.9,132,88,0,Returning,In-Store,Credit Card,6,Toys
+1081,East,23070.8335,10,28:38.9,135,59,0,Returning,In-Store,Credit Card,4,Sports
+1082,West,23787.53855,15,41:26.5,181,29,0,New,In-Store,Cash,8,Home & Kitchen
+1083,North,17347.49426,10,16:56.2,118,83,1,Returning,In-Store,Credit Card,7,Sports
+1084,West,17120.9088,10,19:49.2,127,6,0,Returning,Direct,Credit Card,7,Health & Beauty
+1085,East,18624.74151,5,06:50.8,139,97,0,VIP,Direct,Bank Transfer,10,Books
+1086,East,8490.394176,,02:31.4,183,49,0,Returning,Online,Cash,9,Books
+1087,South,12424.04469,,03:03.8,196,40,0,New,Online,Bank Transfer,5,Sports
+1088,North,26834.37134,15,02:31.4,175,83,0,Returning,Online,Bank Transfer,6,Books
+1089,West,28224.83857,,07:23.2,114,65,0,New,Direct,Cash,1,Books
+1090,South,18754.8198,10,47:01.6,140,69,0,VIP,In-Store,Cash,6,Clothing
+1091,nan,22882.78482,10,11:10.3,138,27,0,New,Online,Credit Card,2,Home & Kitchen
+1092,West,21556.25077,5,06:18.4,101,80,0,Returning,In-Store,Bank Transfer,6,Health & Beauty
+1093,South,35394.40404,5,50:37.8,162,6,1,VIP,Online,Cash,9,Health & Beauty
+1094,South,25597.87456,,24:19.5,128,13,0,Returning,Online,Bank Transfer,8,Books
+1095,South,19360.41204,15,30:59.5,173,64,0,VIP,Online,Bank Transfer,9,Electronics
+1096,South,15222.2978,,14:14.1,165,62,0,VIP,Online,Cash,10,Health & Beauty
+1097,South,11967.7684,,54:57.3,150,99,0,Returning,Online,Credit Card,8,Home & Kitchen
+1098,West,21017.31818,,02:53.0,174,19,0,Returning,In-Store,Bank Transfer,3,Toys
+1099,South,16218.24627,,49:54.6,176,76,0,VIP,Online,Cash,8,Home & Kitchen
+1100,North,12888.73145,10,47:34.1,109,80,0,VIP,In-Store,Credit Card,6,Books
+1101,East,16767.13558,15,49:00.5,113,43,0,Returning,Direct,Bank Transfer,6,Books
+1102,South,14592.25998,10,32:15.1,181,74,0,New,Online,Cash,6,Clothing
+1103,nan,28435.70818,15,57:28.6,150,89,0,Returning,In-Store,Bank Transfer,3,Sports
+1104,West,24408.19878,5,14:35.7,172,20,0,VIP,Direct,Cash,10,Health & Beauty
+1105,South,19960.13679,,36:02.2,138,95,0,Returning,Direct,Cash,1,Sports
+1106,South,27399.72069,10,08:38.9,127,68,0,New,Direct,Bank Transfer,4,Sports
+1107,South,20386.84154,15,36:56.2,102,44,0,Returning,In-Store,Bank Transfer,10,Health & Beauty
+1108,West,15693.57899,5,13:09.2,183,23,0,VIP,Online,Cash,6,Health & Beauty
+1109,South,27615.62039,5,02:53.0,169,2,0,Returning,Online,Credit Card,10,Books
+1110,East,22694.55022,,18:11.9,126,22,0,VIP,In-Store,Bank Transfer,2,Health & Beauty
+1111,West,14813.76923,15,27:12.4,101,57,0,VIP,Online,Cash,7,Electronics
+1112,East,19048.30661,10,45:24.3,192,72,0,Returning,In-Store,Cash,7,Electronics
+1113,West,15621.90873,,58:33.5,137,7,0,VIP,Online,Credit Card,4,Toys
+1114,South,13086.00135,10,48:28.1,102,78,0,VIP,Direct,Credit Card,4,Health & Beauty
+1115,East,24630.88774,5,43:25.4,115,56,0,New,Online,Credit Card,1,Clothing
+1116,West,29547.0832,10,39:16.8,193,67,0,New,In-Store,Bank Transfer,2,Toys
+1117,North,13007.16213,10,42:53.0,139,16,0,New,In-Store,Cash,9,Books
+1118,South,22814.84618,,54:35.7,101,83,0,New,Direct,Cash,10,Health & Beauty
+1119,West,16746.78715,10,01:58.9,180,51,0,VIP,In-Store,Cash,8,Electronics
+1120,North,17564.37308,,51:21.1,140,82,1,Returning,Online,Credit Card,8,Clothing
+1121,West,17038.03038,5,07:34.1,111,80,0,VIP,Online,Cash,9,Toys
+1122,North,15680.04615,,47:23.2,134,72,0,VIP,Direct,Bank Transfer,7,Clothing
+1123,South,20242.60814,,18:01.1,164,97,0,VIP,In-Store,Credit Card,9,Health & Beauty
+1124,East,15845.24942,15,12:25.9,154,12,0,Returning,Direct,Credit Card,10,Home & Kitchen
+1125,North,21352.28413,10,47:55.7,144,53,0,New,Online,Credit Card,2,Clothing
+1126,nan,19748.80945,5,11:53.5,178,75,0,VIP,Direct,Credit Card,6,Clothing
+1127,South,18805.25977,,26:40.0,189,5,0,VIP,In-Store,Bank Transfer,3,Books
+1128,North,15462.18169,5,37:50.3,184,27,0,New,Direct,Cash,6,Electronics
+1129,West,17116.14335,15,44:19.5,161,12,0,VIP,In-Store,Bank Transfer,3,Health & Beauty
+1130,West,,10,30:27.0,148,17,1,Returning,In-Store,Cash,8,Clothing
+1131,West,22504.58594,,43:25.4,194,6,0,VIP,Online,Bank Transfer,4,Health & Beauty
+1132,North,15112.22378,10,11:10.3,124,97,1,VIP,Online,Credit Card,10,Electronics
+1133,North,20496.66153,15,51:21.1,122,5,0,New,Online,Credit Card,6,Books
+1134,North,23756.93562,15,46:50.8,123,57,0,VIP,In-Store,Bank Transfer,9,Health & Beauty
+1135,East,11652.97359,5,06:29.2,137,28,0,VIP,Direct,Bank Transfer,2,Sports
+1136,North,22716.80096,,34:35.7,127,78,0,Returning,In-Store,Cash,2,Electronics
+1137,North,16686.88121,5,59:05.9,120,69,0,New,Online,Bank Transfer,7,Electronics
+1138,North,22852.99334,15,19:38.4,153,59,1,New,Online,Bank Transfer,2,Toys
+1139,East,16183.70422,10,02:42.2,117,33,0,Returning,Direct,Cash,2,Books
+1140,North,10975.5895,5,00:54.1,135,62,0,VIP,Online,Cash,4,Books
+1141,West,11862.28781,5,05:13.5,198,50,0,New,Online,Cash,9,Sports
+1142,North,20240.42473,10,00:10.8,144,19,0,New,Online,Bank Transfer,8,Health & Beauty
+1143,West,21298.61251,5,00:10.8,172,86,1,VIP,Direct,Cash,2,Home & Kitchen
+1144,West,15478.41687,10,00:21.6,152,69,0,VIP,In-Store,Credit Card,8,Sports
+1145,West,23192.96229,,40:21.6,129,66,0,New,Online,Credit Card,4,Toys
+1146,East,11692.39969,10,26:29.2,159,94,0,VIP,Direct,Credit Card,2,Books
+1147,East,19669.60101,,19:49.2,197,47,0,New,Online,Bank Transfer,10,Electronics
+1148,East,13944.919,10,49:11.4,131,39,1,VIP,Direct,Credit Card,7,Books
+1149,North,16740.81946,15,30:27.0,166,68,0,VIP,Online,Bank Transfer,6,Sports
+1150,West,,15,56:23.8,166,33,0,Returning,Direct,Bank Transfer,10,Home & Kitchen
+1151,nan,15697.93317,,40:32.4,127,13,0,VIP,Online,Credit Card,5,Clothing
+1152,East,18077.22228,,07:44.9,143,84,0,Returning,In-Store,Cash,1,Clothing
+1153,North,25031.46405,15,41:15.7,178,54,0,VIP,Online,Bank Transfer,2,Books
+1154,East,17115.54065,,37:07.0,140,7,0,New,Direct,Credit Card,8,Books
+1155,North,24178.46056,10,10:16.2,162,79,0,New,Online,Bank Transfer,1,Toys
+1156,South,14351.46573,10,33:20.0,122,87,1,VIP,In-Store,Cash,3,Books
+1157,East,22649.02089,15,10:48.6,174,14,0,VIP,Online,Cash,2,Home & Kitchen
+1158,South,,5,45:02.7,147,87,0,New,Direct,Credit Card,5,Books
+1159,North,7641.777499,10,05:35.1,131,19,1,VIP,Direct,Bank Transfer,4,Health & Beauty
+1160,West,16015.52372,,38:01.1,156,54,0,Returning,In-Store,Bank Transfer,7,Sports
+1161,East,22885.36064,5,46:18.4,199,93,0,Returning,Direct,Bank Transfer,5,Home & Kitchen
+1162,North,18984.77307,5,20:00.0,132,20,0,Returning,Online,Bank Transfer,8,Toys
+1163,West,21855.72937,10,03:57.8,123,29,0,Returning,Online,Credit Card,4,Health & Beauty
+1164,West,16980.07407,10,38:11.9,138,24,0,Returning,Online,Cash,6,Health & Beauty
+1165,South,20432.94894,5,05:13.5,133,82,1,VIP,Direct,Credit Card,4,Sports
+1166,North,19221.61382,5,47:01.6,155,63,0,VIP,Online,Bank Transfer,2,Clothing
+1167,West,25838.91031,15,35:29.7,127,74,0,Returning,Online,Bank Transfer,1,Home & Kitchen
+1168,East,21272.10422,,40:10.8,136,57,0,VIP,Online,Cash,1,Sports
+1169,East,21688.01331,15,59:49.2,106,8,0,VIP,In-Store,Bank Transfer,8,Health & Beauty
+1170,South,17940.61517,10,42:42.2,167,90,0,Returning,Direct,Credit Card,4,Toys
+1171,West,17561.96888,15,33:20.0,136,62,0,VIP,Direct,Credit Card,5,Sports
+1172,North,17837.20906,15,55:40.5,155,29,0,VIP,Direct,Cash,8,Clothing
+1173,East,21972.26071,15,51:10.3,164,74,0,VIP,In-Store,Credit Card,7,Health & Beauty
+1174,West,17895.0776,15,40:00.0,164,17,1,Returning,Direct,Credit Card,8,Sports
+1175,West,21448.87428,,38:01.1,146,66,0,VIP,In-Store,Credit Card,8,Home & Kitchen
+1176,South,30377.00399,,02:42.2,119,6,0,New,In-Store,Credit Card,6,Clothing
+1177,East,,5,04:51.9,118,58,0,New,Direct,Bank Transfer,10,Home & Kitchen
+1178,East,18369.88234,10,28:38.9,128,69,0,Returning,Online,Credit Card,2,Home & Kitchen
+1179,North,26006.06961,15,55:08.1,173,28,0,New,Online,Cash,6,Home & Kitchen
+1180,East,,5,50:48.6,159,62,0,Returning,Direct,Cash,1,Sports
+1181,North,9809.377324,5,35:29.7,117,41,0,New,Direct,Credit Card,1,Clothing
+1182,East,14959.56845,5,04:30.3,191,69,0,New,In-Store,Cash,3,Sports
+1183,South,10646.04039,,50:37.8,134,82,0,New,Direct,Credit Card,3,Sports
+1184,East,18242.43258,15,40:43.2,142,90,0,Returning,In-Store,Cash,5,Sports
+1185,North,20092.0919,15,39:49.2,194,84,1,Returning,Direct,Cash,1,Health & Beauty
+1186,North,28382.18656,10,43:14.6,190,41,0,VIP,Online,Credit Card,10,Books
+1187,South,,15,46:18.4,110,49,0,Returning,Online,Credit Card,6,Electronics
+1188,East,18904.49736,15,54:35.7,148,91,0,New,Direct,Bank Transfer,7,Health & Beauty
+1189,East,24147.02791,5,27:34.1,137,49,0,New,In-Store,Credit Card,10,Clothing
+1190,South,8944.323455,10,57:07.0,163,76,0,Returning,Online,Credit Card,3,Electronics
+1191,East,21178.07279,15,35:51.4,168,71,0,Returning,In-Store,Bank Transfer,4,Electronics
+1192,East,23854.32597,,29:11.4,107,3,0,Returning,Direct,Credit Card,10,Electronics
+1193,North,12607.06877,15,18:44.3,133,10,0,VIP,Direct,Credit Card,10,Books
+1194,East,25718.77022,5,44:30.3,147,98,0,New,Online,Bank Transfer,10,Sports
+1195,East,21692.48204,,32:58.4,155,89,0,VIP,Direct,Credit Card,10,Toys
+1196,South,17923.56043,5,49:11.4,175,35,0,VIP,Online,Credit Card,10,Clothing
+1197,South,23163.90933,15,32:47.6,164,80,0,New,In-Store,Bank Transfer,3,Books
+1198,West,31353.46429,,56:56.2,130,2,0,New,Online,Bank Transfer,1,Books
+1199,nan,20909.33128,10,46:40.0,103,24,0,Returning,Online,Cash,8,Toys
+1200,East,21241.10293,10,16:13.0,149,74,0,Returning,In-Store,Credit Card,10,Electronics
+1201,East,17703.1955,,24:41.1,168,38,0,VIP,Online,Cash,10,Sports
+1202,West,15750.77815,,40:54.1,129,22,0,Returning,Online,Cash,2,Toys
+1203,East,24151.67908,5,51:31.9,187,26,0,Returning,Direct,Bank Transfer,1,Toys
+1204,North,15719.58087,,49:33.0,158,43,0,New,In-Store,Credit Card,8,Books
+1205,West,20357.83119,5,14:24.9,166,55,1,New,Online,Credit Card,7,Clothing
+1206,North,17611.71277,15,02:53.0,174,39,0,Returning,In-Store,Bank Transfer,7,Home & Kitchen
+1207,West,22394.89913,5,14:03.2,144,91,0,New,In-Store,Cash,4,Sports
+1208,West,21668.31053,,52:47.6,103,29,0,Returning,Online,Bank Transfer,9,Toys
+1209,South,25187.69972,,43:36.2,125,20,1,New,Direct,Credit Card,6,Sports
+1210,North,17449.91801,15,31:10.3,126,91,0,New,In-Store,Bank Transfer,2,Toys
+1211,East,18650.62532,,52:47.6,145,41,0,New,Online,Credit Card,1,Electronics
+1212,East,15106.18142,,12:36.8,163,54,0,New,In-Store,Cash,1,Sports
+1213,North,17778.5337,10,29:33.0,190,20,0,Returning,Direct,Credit Card,9,Electronics
+1214,nan,21886.50247,10,54:24.9,150,19,0,VIP,Direct,Cash,4,Books
+1215,East,23784.94308,15,11:53.5,149,84,0,New,Direct,Cash,5,Electronics
+1216,North,15389.17338,5,58:55.1,105,99,0,Returning,Online,Credit Card,3,Sports
+1217,West,24348.0296,10,03:14.6,158,66,0,Returning,Online,Credit Card,4,Health & Beauty
+1218,North,26778.18929,5,16:56.2,114,30,0,New,Direct,Cash,8,Sports
+1219,West,22067.17452,,14:57.3,129,53,0,VIP,Online,Bank Transfer,4,Toys
+1220,East,29383.97906,10,47:34.1,141,34,0,New,Direct,Credit Card,9,Electronics
+1221,East,16131.054,15,54:35.7,136,22,0,Returning,Online,Cash,9,Clothing
+1222,East,13776.72648,15,27:55.7,141,67,0,VIP,Direct,Cash,6,Health & Beauty
+1223,South,11106.39876,15,01:04.9,134,6,1,Returning,In-Store,Bank Transfer,2,Books
+1224,West,27480.22156,10,49:54.6,186,79,0,New,Direct,Credit Card,10,Home & Kitchen
+1225,South,23271.82828,5,46:18.4,105,27,0,VIP,Direct,Cash,7,Toys
+1226,South,19722.07665,,39:38.4,167,10,0,Returning,Online,Bank Transfer,9,Toys
+1227,North,21399.84313,5,42:31.4,117,73,0,Returning,Online,Cash,6,Clothing
+1228,South,14372.55476,5,19:05.9,172,97,0,Returning,Online,Credit Card,3,Home & Kitchen
+1229,North,32228.7599,,35:51.4,128,96,0,New,Online,Bank Transfer,7,Home & Kitchen
+1230,North,20646.10591,,57:28.6,176,48,0,VIP,Online,Cash,5,Books
+1231,South,20546.97397,10,41:48.1,158,70,0,New,Online,Bank Transfer,1,Books
+1232,West,23628.83312,10,20:54.1,146,59,0,New,In-Store,Credit Card,3,Health & Beauty
+1233,West,22405.04616,10,00:10.8,116,59,0,New,Direct,Bank Transfer,5,Toys
+1234,West,21119.42012,10,20:54.1,195,2,0,VIP,Direct,Credit Card,7,Electronics
+1235,West,16047.62772,10,45:35.1,121,29,1,New,Direct,Cash,3,Books
+1236,West,22357.34179,,57:28.6,167,68,0,New,In-Store,Credit Card,6,Clothing
+1237,South,29410.12248,5,56:56.2,168,65,1,New,Direct,Cash,5,Clothing
+1238,South,26727.10023,10,24:51.9,136,83,0,New,In-Store,Cash,1,Clothing
+1239,East,27965.93313,10,18:33.5,148,26,1,Returning,In-Store,Credit Card,10,Sports
+1240,West,17443.92162,5,11:53.5,112,89,0,New,In-Store,Cash,6,Books
+1241,South,15051.9759,10,24:08.6,133,10,0,Returning,Direct,Bank Transfer,8,Books
+1242,East,19371.0654,5,57:17.8,185,53,0,New,In-Store,Cash,1,Clothing
+1243,West,20278.62456,5,53:20.0,152,79,0,VIP,Direct,Credit Card,2,Books
+1244,North,25470.95759,,25:35.1,186,59,0,Returning,Direct,Bank Transfer,4,Sports
+1245,East,11537.67685,15,28:49.7,150,22,0,Returning,Online,Bank Transfer,2,Electronics
+1246,South,,,44:30.3,102,51,0,Returning,Online,Cash,9,Electronics
+1247,North,19209.96051,15,21:48.1,141,48,0,Returning,In-Store,Cash,10,Health & Beauty
+1248,North,17865.59465,15,09:43.8,197,21,0,VIP,In-Store,Credit Card,8,Toys
+1249,North,14939.47812,15,46:18.4,131,22,0,New,Direct,Bank Transfer,8,Electronics
+1250,East,11725.71664,10,01:37.3,150,98,0,Returning,In-Store,Credit Card,4,Health & Beauty
+1251,South,24115.85292,,02:31.4,184,30,0,VIP,In-Store,Cash,5,Home & Kitchen
+1252,North,20366.58984,15,56:45.4,145,25,0,Returning,Direct,Bank Transfer,4,Toys
+1253,West,13550.1955,5,48:06.5,120,28,0,New,In-Store,Credit Card,9,Electronics
+1254,North,13524.60614,10,52:47.6,143,65,0,Returning,In-Store,Credit Card,2,Sports
+1255,North,18321.0765,,10:05.4,110,45,0,VIP,Direct,Credit Card,8,Home & Kitchen
+1256,East,28345.10763,15,48:38.9,167,68,0,New,Direct,Credit Card,2,Health & Beauty
+1257,East,18702.04324,5,20:10.8,100,7,0,VIP,Online,Credit Card,1,Electronics
+1258,South,12484.28523,,54:35.7,191,49,0,New,Direct,Bank Transfer,10,Electronics
+1259,West,18771.28468,,24:30.3,162,9,0,New,Online,Credit Card,3,Books
+1260,East,18636.38215,10,33:41.6,123,36,0,New,In-Store,Bank Transfer,9,Home & Kitchen
+1261,nan,6515.566785,,47:34.1,198,83,0,Returning,Direct,Credit Card,3,Electronics
+1262,South,19728.52567,10,56:13.0,112,1,0,VIP,Direct,Cash,9,Clothing
+1263,North,18845.32735,15,36:23.8,197,10,0,VIP,Direct,Cash,7,Sports
+1264,North,23481.03182,10,45:45.9,110,36,0,VIP,In-Store,Credit Card,10,Books
+1265,East,29244.78047,5,54:14.1,199,73,0,New,Online,Cash,1,Books
+1266,South,25632.82515,10,50:59.5,150,46,0,Returning,In-Store,Bank Transfer,10,Electronics
+1267,West,18655.55655,5,11:53.5,116,32,0,New,In-Store,Credit Card,5,Sports
+1268,West,14467.37046,10,38:11.9,198,32,0,VIP,Direct,Bank Transfer,9,Books
+1269,East,32866.79902,,41:04.9,181,6,0,Returning,Online,Credit Card,3,Toys
+1270,East,20296.09217,15,24:19.5,185,48,1,Returning,In-Store,Cash,9,Home & Kitchen
+1271,South,20069.64646,5,57:07.0,123,38,0,Returning,Direct,Bank Transfer,5,Toys
+1272,West,19879.37456,10,24:19.5,118,17,1,VIP,In-Store,Cash,9,Health & Beauty
+1273,West,20990.4238,10,49:33.0,136,74,0,Returning,In-Store,Cash,10,Toys
+1274,West,19278.19794,10,26:50.8,184,27,0,Returning,Direct,Credit Card,6,Sports
+1275,North,17131.68997,,01:15.7,107,54,0,New,Direct,Bank Transfer,9,Clothing
+1276,West,17265.70529,,17:17.8,127,50,0,New,Online,Cash,7,Books
+1277,North,19836.23365,5,14:03.2,104,35,0,Returning,In-Store,Credit Card,7,Sports
+1278,South,17282.87614,5,17:50.3,116,85,0,Returning,Direct,Credit Card,8,Books
+1279,North,16435.77109,,14:24.9,135,25,0,New,Direct,Credit Card,7,Clothing
+1280,South,20532.15114,5,15:18.9,118,28,1,New,Online,Cash,9,Books
+1281,West,18725.11391,15,01:04.9,163,15,0,New,Online,Credit Card,9,Toys
+1282,West,27519.96494,15,25:24.3,190,4,0,VIP,Direct,Bank Transfer,6,Health & Beauty
+1283,South,6745.150958,,06:18.4,197,93,0,VIP,Online,Bank Transfer,7,Electronics
+1284,East,25457.53426,5,56:23.8,110,73,0,New,Direct,Cash,2,Clothing
+1285,South,26230.42596,10,49:22.2,153,27,0,Returning,In-Store,Bank Transfer,9,Toys
+1286,East,9633.048838,15,03:57.8,144,26,0,New,Online,Credit Card,1,Sports
+1287,North,,,36:02.2,146,19,1,VIP,In-Store,Cash,1,Toys
+1288,North,18142.79567,5,05:02.7,111,92,0,Returning,In-Store,Credit Card,3,Toys
+1289,North,12962.44153,,40:54.1,120,17,0,VIP,In-Store,Cash,6,Electronics
+1290,West,16110.91656,10,03:57.8,110,43,0,Returning,Direct,Cash,5,Home & Kitchen
+1291,North,14447.12077,15,54:24.9,191,41,0,VIP,In-Store,Credit Card,2,Books
+1292,East,28761.35222,,52:04.3,104,42,0,Returning,In-Store,Bank Transfer,9,Books
+1293,North,24678.39197,,33:20.0,180,50,0,Returning,In-Store,Bank Transfer,10,Sports
+1294,South,26357.77547,,12:15.1,155,84,0,Returning,Direct,Cash,4,Health & Beauty
+1295,South,23608.36032,10,43:57.8,119,40,0,Returning,In-Store,Credit Card,4,Sports
+1296,West,14354.74114,,32:25.9,140,39,0,VIP,In-Store,Credit Card,5,Home & Kitchen
+1297,South,17377.39867,10,39:05.9,145,23,0,VIP,Online,Cash,8,Books
+1298,East,22446.87281,10,53:20.0,111,96,0,Returning,Direct,Bank Transfer,10,Health & Beauty
+1299,North,13889.36096,10,07:12.4,169,52,0,Returning,In-Store,Credit Card,4,Sports
+1300,West,23564.99215,15,27:44.9,116,47,0,VIP,Online,Bank Transfer,5,Health & Beauty
+1301,North,18798.37301,15,12:25.9,118,63,0,Returning,Direct,Bank Transfer,4,Toys
+1302,North,18125.89596,,14:14.1,125,97,0,Returning,Direct,Cash,6,Clothing
+1303,East,23554.79984,,52:36.8,147,69,0,Returning,Direct,Cash,3,Toys
+1304,South,22221.31656,15,23:03.8,151,43,0,New,Direct,Bank Transfer,8,Electronics
+1305,nan,,5,43:57.8,195,48,0,Returning,Direct,Credit Card,6,Books
+1306,North,25796.64902,15,30:48.6,169,34,0,New,Direct,Credit Card,10,Health & Beauty
+1307,West,14594.68336,10,37:50.3,154,40,0,Returning,In-Store,Cash,5,Sports
+1308,South,23079.67803,15,40:32.4,199,75,0,VIP,In-Store,Bank Transfer,2,Clothing
+1309,West,22965.50629,10,05:02.7,174,61,0,New,In-Store,Credit Card,10,Sports
+1310,South,18452.2678,,20:00.0,132,50,0,New,In-Store,Credit Card,10,Books
+1311,West,21630.66511,5,30:27.0,161,67,0,Returning,Online,Cash,7,Health & Beauty
+1312,East,13744.43212,,45:35.1,187,62,0,Returning,In-Store,Bank Transfer,2,Health & Beauty
+1313,West,24620.1351,10,32:15.1,122,58,0,New,Direct,Credit Card,1,Toys
+1314,East,19075.48932,10,09:54.6,114,33,0,VIP,In-Store,Cash,7,Clothing
+1315,East,17386.3849,10,10:48.6,126,75,0,VIP,In-Store,Credit Card,5,Clothing
+1316,West,25245.04613,5,02:09.7,174,16,1,Returning,Direct,Credit Card,1,Books
+1317,East,16478.28155,15,52:47.6,163,82,0,VIP,In-Store,Credit Card,4,Health & Beauty
+1318,North,12957.69352,,59:27.6,180,94,0,VIP,In-Store,Cash,4,Clothing
+1319,East,12216.85413,,39:38.4,150,48,1,Returning,In-Store,Bank Transfer,10,Clothing
+1320,South,23030.04976,15,14:03.2,152,10,1,VIP,Online,Cash,7,Sports
+1321,West,13597.85324,,03:47.0,177,82,0,Returning,In-Store,Bank Transfer,9,Books
+1322,North,28773.97091,5,18:55.1,190,38,0,New,Direct,Credit Card,2,Toys
+1323,West,9590.352961,,46:07.6,181,19,0,Returning,Direct,Bank Transfer,1,Sports
+1324,South,28482.28184,10,38:55.1,191,36,0,New,In-Store,Credit Card,2,Sports
+1325,South,21055.08734,15,10:59.5,150,59,0,New,In-Store,Credit Card,7,Home & Kitchen
+1326,South,19516.43444,5,54:24.9,146,63,0,VIP,In-Store,Cash,10,Electronics
+1327,East,17275.40457,15,27:34.1,103,77,0,VIP,Direct,Credit Card,6,Home & Kitchen
+1328,East,21995.68057,5,01:15.7,106,46,0,VIP,Direct,Cash,4,Clothing
+1329,West,,10,37:17.8,134,3,0,Returning,Online,Bank Transfer,1,Health & Beauty
+1330,West,25516.50941,15,10:27.0,147,74,0,VIP,Online,Bank Transfer,1,Electronics
+1331,North,20571.13824,,28:06.5,172,65,0,New,Online,Credit Card,5,Electronics
+1332,North,20751.50881,5,26:50.8,171,91,0,VIP,Direct,Cash,1,Health & Beauty
+1333,West,18181.93894,15,40:00.0,144,8,0,VIP,Online,Credit Card,7,Electronics
+1334,East,19715.27188,,44:08.6,180,51,0,Returning,In-Store,Cash,1,Health & Beauty
+1335,South,21539.00884,15,19:38.4,180,81,0,Returning,In-Store,Cash,1,Electronics
+1336,West,11449.15804,15,31:42.7,196,73,1,New,Direct,Cash,2,Sports
+1337,North,13259.07289,15,43:03.8,195,6,0,Returning,Online,Bank Transfer,10,Books
+1338,East,23716.32047,5,55:18.9,171,89,0,VIP,In-Store,Cash,3,Books
+1339,West,20854.32719,,11:21.1,118,39,0,Returning,Direct,Bank Transfer,1,Home & Kitchen
+1340,West,,10,26:07.6,162,60,0,New,Online,Cash,9,Sports
+1341,East,,5,39:27.6,137,28,0,VIP,In-Store,Bank Transfer,10,Electronics
+1342,West,21737.90853,5,48:49.7,166,97,0,New,Online,Bank Transfer,8,Toys
+1343,East,17301.2016,5,35:29.7,158,54,0,Returning,Direct,Bank Transfer,5,Health & Beauty
+1344,South,16108.47637,10,02:42.2,168,37,0,Returning,Online,Credit Card,2,Sports
+1345,East,20979.22628,,39:16.8,112,9,0,New,Direct,Cash,5,Electronics
+1346,East,15108.13611,,07:44.9,146,82,0,VIP,Online,Credit Card,6,Books
+1347,East,22041.26378,,13:20.0,160,56,1,Returning,In-Store,Cash,1,Books
+1348,West,11487.08198,15,40:10.8,130,59,1,Returning,Direct,Cash,4,Health & Beauty
+1349,West,25145.77819,15,16:13.0,179,85,0,VIP,Direct,Credit Card,9,Toys
+1350,East,22362.98741,15,06:40.0,195,2,0,Returning,Direct,Bank Transfer,2,Electronics
+1351,West,21280.14867,10,48:49.7,121,61,0,New,Online,Cash,5,Electronics
+1352,North,24913.45492,15,21:48.1,192,58,0,Returning,Online,Bank Transfer,1,Toys
+1353,North,28327.37222,10,47:44.9,185,60,0,Returning,In-Store,Credit Card,4,Toys
+1354,West,25071.85033,,43:57.8,142,40,1,VIP,Direct,Bank Transfer,4,Toys
+1355,West,10795.62884,15,00:21.6,166,36,0,New,Direct,Cash,6,Books
+1356,nan,13602.11517,15,40:21.6,153,37,0,VIP,Online,Cash,10,Health & Beauty
+1357,South,,5,10:48.6,109,79,0,Returning,Online,Cash,9,Sports
+1358,West,,10,11:42.7,141,92,1,Returning,In-Store,Credit Card,3,Toys
+1359,North,22588.2951,,00:43.2,163,18,0,VIP,In-Store,Cash,9,Health & Beauty
+1360,East,16371.28093,5,07:34.1,120,98,0,VIP,Online,Credit Card,6,Home & Kitchen
+1361,West,20933.83382,5,21:15.7,179,63,0,VIP,Direct,Bank Transfer,7,Electronics
+1362,North,16223.08534,,47:23.2,175,22,0,New,In-Store,Cash,10,Electronics
+1363,North,16942.41099,5,36:23.8,165,11,0,Returning,Online,Cash,2,Clothing
+1364,South,12966.69452,10,25:13.5,140,58,1,VIP,Online,Cash,10,Home & Kitchen
+1365,East,15383.83377,10,41:04.9,123,57,0,Returning,Direct,Bank Transfer,6,Sports
+1366,East,13241.57697,15,33:52.4,134,77,0,New,Online,Cash,6,Toys
+1367,South,15120.63374,5,48:49.7,155,4,0,New,Online,Credit Card,2,Toys
+1368,South,25268.20898,15,00:10.8,129,86,0,New,In-Store,Bank Transfer,2,Sports
+1369,East,15253.00556,5,12:36.8,156,7,0,New,Online,Bank Transfer,2,Books
+1370,East,33161.91032,10,11:31.9,193,61,0,Returning,Online,Bank Transfer,10,Home & Kitchen
+1371,West,22466.5895,10,00:10.8,146,54,0,New,In-Store,Bank Transfer,1,Toys
+1372,West,20924.18062,10,02:53.0,134,88,0,New,Direct,Bank Transfer,5,Clothing
+1373,South,15708.2111,5,25:13.5,118,68,0,VIP,Direct,Credit Card,8,Health & Beauty
+1374,nan,23501.5494,10,49:22.2,107,92,0,New,In-Store,Bank Transfer,2,Electronics
+1375,North,17121.81087,5,49:33.0,125,79,0,VIP,In-Store,Cash,5,Home & Kitchen
+1376,West,20610.04907,15,57:39.5,170,1,0,New,Direct,Bank Transfer,8,Electronics
+1377,West,32800.42269,5,56:13.0,129,55,0,New,Direct,Bank Transfer,10,Health & Beauty
+1378,North,19519.7005,15,09:11.4,106,3,0,VIP,Direct,Bank Transfer,5,Home & Kitchen
+1379,South,25746.36663,5,29:00.5,166,78,0,New,Direct,Bank Transfer,2,Health & Beauty
+1380,North,16484.11787,15,03:25.4,164,38,0,Returning,Direct,Bank Transfer,3,Toys
+1381,West,19825.05755,10,56:56.2,135,1,0,Returning,In-Store,Credit Card,6,Sports
+1382,South,28854.00318,15,53:20.0,124,38,0,New,Online,Credit Card,5,Toys
+1383,West,16865.16471,10,09:11.4,136,85,0,Returning,Direct,Bank Transfer,4,Sports
+1384,North,29062.24279,10,27:44.9,100,29,0,VIP,Direct,Credit Card,4,Toys
+1385,North,,15,19:27.6,114,5,0,New,Online,Cash,5,Health & Beauty
+1386,West,17187.66612,5,52:47.6,136,74,1,New,Online,Bank Transfer,2,Health & Beauty
+1387,East,23162.0387,5,42:42.2,112,92,0,VIP,Online,Cash,9,Health & Beauty
+1388,East,24862.77225,,16:34.6,107,21,0,VIP,Online,Cash,2,Electronics
+1389,North,,5,54:03.2,104,71,0,VIP,Online,Bank Transfer,10,Health & Beauty
+1390,North,12148.8764,,06:50.8,159,67,1,New,Online,Cash,2,Toys
+1391,East,16364.31412,5,48:38.9,172,47,0,VIP,In-Store,Cash,10,Clothing
+1392,East,18762.40682,5,06:50.8,100,84,0,VIP,Online,Cash,9,Health & Beauty
+1393,West,19627.83285,10,51:42.7,135,83,0,Returning,Online,Bank Transfer,3,Clothing
+1394,West,23103.36049,,26:29.2,134,35,0,Returning,In-Store,Bank Transfer,10,Sports
+1395,East,20888.505,5,57:39.5,165,68,0,New,Online,Cash,7,Toys
+1396,West,13323.27821,,12:25.9,162,69,0,Returning,Direct,Bank Transfer,4,Health & Beauty
+1397,West,21900.98926,10,43:57.8,122,1,0,Returning,Direct,Bank Transfer,6,Electronics
+1398,South,23052.92873,10,17:28.6,108,68,0,VIP,Online,Cash,4,Electronics
+1399,West,,,27:12.4,133,12,0,VIP,In-Store,Bank Transfer,10,Sports
+1400,North,25403.90363,10,07:23.2,145,60,0,Returning,Direct,Credit Card,7,Clothing
+1401,West,24169.61077,15,03:57.8,177,27,0,Returning,In-Store,Bank Transfer,1,Books
+1402,nan,22295.9004,15,52:58.4,103,56,0,Returning,Direct,Credit Card,3,Electronics
+1403,East,19649.17144,10,43:03.8,129,23,0,New,Online,Cash,3,Electronics
+1404,North,11695.19533,15,23:47.0,194,25,1,New,In-Store,Bank Transfer,1,Electronics
+1405,West,22148.0911,5,02:09.7,174,21,0,New,In-Store,Cash,6,Toys
+1406,West,21038.43844,,49:43.8,198,61,0,Returning,In-Store,Cash,9,Electronics
+1407,South,21357.89419,5,15:08.1,171,63,0,Returning,Direct,Cash,8,Home & Kitchen
+1408,West,13616.25712,,03:03.8,102,52,0,New,Direct,Cash,7,Health & Beauty
+1409,West,14594.7173,10,30:48.6,113,88,1,New,Direct,Cash,10,Sports
+1410,South,25265.76427,5,49:33.0,159,25,0,Returning,Online,Bank Transfer,8,Electronics
+1411,East,19802.22423,10,51:42.7,176,55,0,VIP,Direct,Credit Card,6,Books
+1412,West,23407.50349,10,52:36.8,144,46,0,New,Online,Bank Transfer,9,Books
+1413,South,20141.59188,,49:33.0,195,32,0,Returning,In-Store,Bank Transfer,3,Electronics
+1414,North,20148.7807,,12:04.3,133,55,0,Returning,In-Store,Bank Transfer,10,Electronics
+1415,East,24691.41903,,15:18.9,144,96,0,VIP,Online,Bank Transfer,10,Home & Kitchen
+1416,North,17419.77636,5,50:48.6,160,5,0,Returning,Direct,Credit Card,9,Electronics
+1417,North,20480.60388,15,28:28.1,182,36,0,Returning,Online,Bank Transfer,4,Electronics
+1418,South,17688.62356,,22:42.2,115,49,0,New,In-Store,Cash,7,Health & Beauty
+1419,West,17827.51886,,59:16.8,165,58,1,New,In-Store,Bank Transfer,9,Books
+1420,South,18454.13938,5,17:07.0,139,39,0,VIP,Online,Bank Transfer,2,Home & Kitchen
+1421,South,21110.66886,,51:53.5,116,80,0,VIP,Direct,Credit Card,2,Books
+1422,South,17606.25689,5,40:32.4,133,97,0,Returning,Direct,Credit Card,9,Home & Kitchen
+1423,South,26278.78063,10,42:53.0,115,85,0,New,Online,Cash,3,Books
+1424,East,15526.96349,,56:56.2,159,61,0,VIP,Online,Bank Transfer,9,Electronics
+1425,West,19065.64178,,03:14.6,165,9,0,VIP,Direct,Bank Transfer,5,Books
+1426,North,,10,33:52.4,165,6,0,VIP,In-Store,Bank Transfer,6,Books
+1427,North,27234.88942,10,42:20.5,189,35,0,Returning,Online,Cash,2,Home & Kitchen
+1428,West,20982.77388,10,59:27.6,112,39,0,New,Direct,Credit Card,8,Sports
+1429,North,25159.2227,,21:48.1,155,22,0,VIP,Direct,Cash,9,Clothing
+1430,West,,15,09:54.6,130,41,0,New,In-Store,Bank Transfer,2,Home & Kitchen
+1431,North,21335.25133,15,27:44.9,133,5,0,VIP,In-Store,Credit Card,6,Home & Kitchen
+1432,nan,24448.15398,15,20:32.4,138,42,0,VIP,In-Store,Credit Card,6,Home & Kitchen
+1433,North,20411.41995,,05:02.7,166,87,0,New,In-Store,Cash,8,Toys
+1434,West,25327.40188,10,17:17.8,107,81,0,New,In-Store,Credit Card,10,Sports
+1435,West,17413.55775,,56:45.4,186,76,0,New,Online,Credit Card,5,Toys
+1436,West,27046.7372,10,34:03.2,177,87,0,Returning,Direct,Bank Transfer,9,Toys
+1437,West,31494.49062,,33:20.0,154,80,0,VIP,Online,Bank Transfer,1,Home & Kitchen
+1438,West,18185.8072,,33:30.8,126,67,0,Returning,Online,Credit Card,9,Clothing
+1439,East,17772.48739,10,05:13.5,192,30,0,New,Online,Credit Card,10,Home & Kitchen
+1440,East,27266.92239,15,33:09.2,152,57,0,VIP,Online,Cash,7,Electronics
+1441,North,27897.86073,10,32:04.3,138,86,0,Returning,Online,Cash,4,Clothing
+1442,West,17385.69986,5,59:27.6,164,73,0,VIP,In-Store,Credit Card,3,Toys
+1443,North,17899.06591,5,28:49.7,116,29,0,Returning,In-Store,Bank Transfer,10,Books
+1444,West,18591.07696,10,38:44.3,129,37,0,New,Direct,Credit Card,6,Books
+1445,West,13277.74744,,23:36.2,152,87,0,Returning,Online,Credit Card,1,Sports
+1446,East,15406.74027,5,09:43.8,112,13,0,VIP,Direct,Bank Transfer,3,Health & Beauty
+1447,East,14979.29617,5,09:22.2,120,32,0,VIP,In-Store,Bank Transfer,2,Sports
+1448,South,16161.01217,,02:42.2,118,46,0,VIP,In-Store,Cash,9,Clothing
+1449,East,19826.57556,,59:27.6,152,23,0,VIP,In-Store,Cash,3,Toys
+1450,South,21171.07366,15,54:14.1,118,45,0,New,Online,Cash,2,Clothing
+1451,South,27752.50246,,04:08.6,156,17,0,Returning,Online,Cash,4,Clothing
+1452,South,15008.2298,10,30:37.8,124,85,0,New,In-Store,Bank Transfer,2,Books
+1453,South,24921.61199,10,55:51.4,185,66,0,New,Direct,Credit Card,1,Home & Kitchen
+1454,South,18930.05578,15,15:40.5,130,6,0,New,Direct,Cash,6,Electronics
+1455,North,19752.68145,5,13:20.0,180,18,0,VIP,In-Store,Cash,10,Health & Beauty
+1456,East,23374.09746,5,21:26.5,154,94,0,VIP,Direct,Bank Transfer,8,Toys
+1457,South,14386.38989,,21:04.9,122,22,0,VIP,In-Store,Bank Transfer,10,Clothing
+1458,West,,10,53:41.6,131,33,0,Returning,Direct,Credit Card,10,Health & Beauty
+1459,East,20832.26104,5,52:04.3,161,30,0,VIP,In-Store,Credit Card,2,Clothing
+1460,East,22462.25632,15,15:18.9,173,81,0,Returning,Direct,Bank Transfer,9,Books
+1461,South,21445.84322,15,25:56.8,109,32,0,VIP,Online,Cash,3,Electronics
+1462,North,32276.5007,10,07:44.9,199,42,0,VIP,In-Store,Cash,8,Books
+1463,South,16811.30008,15,57:07.0,171,78,0,New,In-Store,Cash,8,Health & Beauty
+1464,North,17345.01522,15,34:24.9,153,10,0,New,Direct,Credit Card,3,Toys
+1465,West,16884.29737,10,26:50.8,151,36,0,New,In-Store,Cash,3,Clothing
+1466,East,17222.6144,,14:57.3,119,34,0,Returning,In-Store,Cash,6,Electronics
+1467,West,16813.06436,,38:22.7,131,73,1,Returning,In-Store,Bank Transfer,1,Books
+1468,North,25945.08266,15,28:28.1,113,28,0,VIP,Online,Cash,4,Health & Beauty
+1469,North,27102.52124,,17:17.8,149,11,1,Returning,Online,Bank Transfer,1,Books
+1470,West,17146.26853,,24:08.6,127,78,1,VIP,Direct,Cash,3,Clothing
+1471,North,15838.22213,15,02:09.7,152,39,0,Returning,Online,Credit Card,9,Clothing
+1472,West,22357.07778,,21:15.7,123,47,0,Returning,Direct,Cash,5,Toys
+1473,East,17238.88478,15,13:52.4,178,19,0,Returning,Online,Cash,5,Electronics
+1474,West,23164.65909,5,44:51.9,121,15,0,New,Direct,Bank Transfer,4,Home & Kitchen
+1475,East,21014.6151,10,17:17.8,129,28,0,Returning,Online,Bank Transfer,3,Books
+1476,West,12421.27943,10,25:02.7,162,24,0,New,Online,Bank Transfer,5,Clothing
+1477,North,27737.52601,,32:58.4,103,72,0,New,Direct,Cash,4,Health & Beauty
+1478,West,28979.38837,,37:07.0,176,9,0,Returning,In-Store,Cash,8,Books
+1479,North,16936.05655,,49:43.8,158,47,0,VIP,In-Store,Credit Card,4,Toys
+1480,West,18061.4922,10,49:33.0,186,33,0,VIP,Online,Cash,8,Toys
+1481,West,21429.32695,5,54:57.3,107,62,0,VIP,Direct,Credit Card,6,Clothing
+1482,South,21672.28395,5,58:33.5,181,97,0,Returning,In-Store,Bank Transfer,5,Clothing
+1483,North,,10,53:20.0,111,19,0,VIP,Direct,Bank Transfer,4,Clothing
+1484,nan,30051.02269,5,35:51.4,130,67,1,New,In-Store,Bank Transfer,4,Sports
+1485,North,19115.26386,10,40:21.6,177,74,0,VIP,Direct,Credit Card,4,Home & Kitchen
+1486,South,16008.51378,5,38:22.7,133,40,0,Returning,Online,Cash,9,Clothing
+1487,East,13103.40386,15,22:42.2,181,47,0,VIP,Direct,Bank Transfer,4,Books
+1488,West,16345.3498,15,00:10.8,197,65,0,New,In-Store,Cash,9,Books
+1489,North,19834.36514,10,55:08.1,174,29,0,Returning,Online,Cash,10,Sports
+1490,North,28972.78932,5,25:35.1,175,50,0,VIP,Direct,Bank Transfer,6,Sports
+1491,West,,,16:02.2,148,98,0,Returning,In-Store,Credit Card,10,Electronics
+1492,North,21118.93976,5,57:28.6,178,13,0,Returning,Online,Cash,7,Health & Beauty
+1493,North,19917.88552,15,17:07.0,156,1,1,Returning,Direct,Bank Transfer,10,Clothing
+1494,South,25941.96637,15,11:53.5,194,34,0,VIP,In-Store,Cash,3,Books
+1495,North,32634.66213,5,55:40.5,192,93,0,Returning,Direct,Cash,8,Sports
+1496,East,17345.65614,5,17:28.6,125,48,0,VIP,Direct,Cash,3,Books
+1497,East,17552.80279,,27:23.2,117,77,0,New,Online,Cash,1,Books
+1498,West,25220.80439,,24:08.6,195,48,0,VIP,Online,Cash,10,Sports
+1499,North,23409.45745,5,16:23.8,185,49,0,New,In-Store,Credit Card,5,Home & Kitchen
+1500,West,29233.53663,5,27:34.1,137,64,0,VIP,Online,Credit Card,2,Sports
+1501,East,22919.64093,5,13:30.8,180,61,1,Returning,In-Store,Bank Transfer,10,Sports
+1502,North,18203.53955,5,25:13.5,186,29,0,VIP,Direct,Credit Card,6,Health & Beauty
+1503,North,22953.27415,10,17:17.8,187,39,0,Returning,Direct,Credit Card,10,Sports
+1504,West,25543.5179,5,30:37.8,149,88,0,New,In-Store,Credit Card,9,Toys
+1505,East,24102.41091,,50:48.6,107,26,0,VIP,Direct,Cash,1,Sports
+1506,North,22536.37016,15,05:13.5,140,17,0,Returning,Online,Cash,4,Books
+1507,West,25333.37345,10,34:24.9,105,71,0,New,Direct,Bank Transfer,1,Clothing
+1508,East,25846.47795,5,31:42.7,168,13,0,New,Online,Bank Transfer,1,Books
+1509,West,26910.79496,15,58:01.1,143,69,0,VIP,In-Store,Bank Transfer,8,Health & Beauty
+1510,South,23243.54944,10,58:01.1,163,26,0,New,In-Store,Cash,2,Toys
+1511,North,19164.4096,15,48:17.3,128,49,0,Returning,Direct,Credit Card,1,Sports
+1512,South,20733.56843,5,34:14.1,127,67,0,New,Direct,Credit Card,8,Home & Kitchen
+1513,East,26032.54483,5,52:15.1,110,7,0,New,Online,Cash,4,Electronics
+1514,South,15915.32165,,54:57.3,164,58,0,Returning,Online,Bank Transfer,3,Sports
+1515,South,21843.36654,5,01:48.1,118,49,0,New,Direct,Bank Transfer,4,Clothing
+1516,East,18033.30594,5,03:25.4,108,53,0,New,Direct,Bank Transfer,5,Electronics
+1517,West,20143.72411,10,20:32.4,126,65,0,New,In-Store,Cash,1,Home & Kitchen
+1518,South,26392.25931,,01:58.9,133,62,0,New,In-Store,Bank Transfer,1,Health & Beauty
+1519,West,20955.49534,10,45:02.7,143,17,0,Returning,In-Store,Bank Transfer,3,Health & Beauty
+1520,South,20232.18274,15,18:55.1,167,43,0,New,Direct,Cash,6,Home & Kitchen
+1521,West,13200.7193,5,52:25.9,199,25,0,Returning,Direct,Credit Card,1,Books
+1522,East,23731.26783,15,16:45.4,181,3,0,New,Direct,Cash,2,Home & Kitchen
+1523,South,23227.42091,10,31:10.3,114,79,0,New,In-Store,Cash,7,Sports
+1524,East,30816.27362,5,01:04.9,150,29,0,New,Direct,Cash,1,Clothing
+1525,South,18461.10883,5,56:23.8,112,32,0,New,Online,Cash,7,Toys
+1526,East,21095.75164,10,50:27.0,182,26,0,Returning,Direct,Credit Card,4,Sports
+1527,East,21246.91842,10,01:37.3,148,16,1,Returning,Direct,Bank Transfer,10,Sports
+1528,South,27887.2664,10,16:45.4,169,25,0,Returning,Direct,Cash,6,Sports
+1529,South,19523.52234,10,32:25.9,155,54,0,VIP,Direct,Credit Card,8,Electronics
+1530,South,21395.10763,10,52:25.9,175,28,0,New,Direct,Bank Transfer,9,Electronics
+1531,North,23039.48255,5,06:29.2,150,73,0,New,Online,Bank Transfer,6,Health & Beauty
+1532,West,20933.04562,10,58:55.1,136,56,0,Returning,Online,Bank Transfer,9,Sports
+1533,North,17767.83193,5,43:47.0,116,65,0,VIP,Direct,Cash,4,Books
+1534,North,20970.44996,5,43:36.2,157,93,0,New,In-Store,Cash,6,Health & Beauty
+1535,East,25368.15875,10,18:01.1,186,86,0,Returning,Direct,Bank Transfer,8,Clothing
+1536,South,14867.4235,10,00:00.0,189,80,0,New,Direct,Bank Transfer,9,Home & Kitchen
+1537,West,20664.84837,,16:45.4,128,41,0,New,Direct,Bank Transfer,3,Electronics
+1538,East,16499.39593,5,37:17.8,132,51,0,Returning,In-Store,Bank Transfer,2,Sports
+1539,North,25975.23314,10,43:57.8,159,71,0,Returning,In-Store,Bank Transfer,6,Clothing
+1540,South,12384.06548,10,04:19.5,190,78,1,New,In-Store,Bank Transfer,4,Health & Beauty
+1541,East,17205.39076,10,49:00.5,188,29,0,New,Online,Credit Card,1,Health & Beauty
+1542,South,21886.05938,,16:34.6,154,83,0,Returning,In-Store,Bank Transfer,8,Electronics
+1543,East,27827.62015,,36:34.6,109,19,0,New,Online,Cash,9,Health & Beauty
+1544,South,19671.24869,15,59:38.4,146,66,0,New,Online,Cash,9,Books
+1545,North,17224.00237,5,44:30.3,122,41,0,Returning,In-Store,Cash,2,Health & Beauty
+1546,West,29405.78535,15,35:18.9,184,45,0,New,In-Store,Bank Transfer,9,Toys
+1547,North,,10,11:42.7,120,15,0,New,In-Store,Cash,7,Home & Kitchen
+1548,West,9005.970217,,57:07.0,112,3,0,VIP,Online,Credit Card,5,Health & Beauty
+1549,South,22200.07225,,27:01.6,132,11,0,Returning,Direct,Bank Transfer,7,Toys
+1550,East,17489.72888,15,23:47.0,123,53,1,VIP,In-Store,Cash,9,Clothing
+1551,North,14893.83591,,21:58.9,110,46,0,VIP,In-Store,Credit Card,8,Health & Beauty
+1552,West,23541.78224,10,06:50.8,116,30,0,VIP,In-Store,Credit Card,6,Books
+1553,North,21219.00357,,07:34.1,167,57,0,New,Online,Cash,4,Clothing
+1554,West,17179.60685,15,03:03.8,146,18,0,New,Online,Credit Card,1,Sports
+1555,North,13598.47801,10,56:13.0,124,51,0,VIP,Direct,Cash,6,Health & Beauty
+1556,West,24362.28664,15,24:51.9,193,48,0,VIP,In-Store,Credit Card,3,Electronics
+1557,West,23251.00589,,19:27.6,172,66,1,VIP,Online,Bank Transfer,6,Toys
+1558,nan,19504.12068,15,16:23.8,120,96,0,New,Direct,Bank Transfer,6,Toys
+1559,West,29233.18498,15,14:14.1,183,8,0,VIP,In-Store,Bank Transfer,4,Electronics
+1560,South,14649.57617,5,33:41.6,182,22,0,VIP,Online,Bank Transfer,2,Home & Kitchen
+1561,West,12372.37415,,47:34.1,182,6,1,Returning,In-Store,Bank Transfer,9,Sports
+1562,East,16540.45965,,33:41.6,111,76,0,Returning,In-Store,Cash,2,Books
+1563,East,,15,33:52.4,136,57,0,New,Online,Bank Transfer,3,Toys
+1564,East,21216.69725,5,29:11.4,141,36,0,Returning,Online,Bank Transfer,10,Clothing
+1565,West,18793.81971,,01:26.5,116,79,0,Returning,Online,Bank Transfer,1,Books
+1566,South,21760.27698,10,10:27.0,147,92,0,Returning,In-Store,Bank Transfer,7,Toys
+1567,South,13742.30288,15,26:40.0,127,57,0,New,In-Store,Credit Card,1,Sports
+1568,West,27218.82302,,25:13.5,140,49,0,Returning,Direct,Bank Transfer,9,Home & Kitchen
+1569,East,19589.24411,10,20:21.6,198,45,0,New,In-Store,Bank Transfer,1,Sports
+1570,East,25586.47916,,07:44.9,146,82,0,VIP,Online,Cash,5,Clothing
+1571,South,21713.62673,10,27:23.2,117,66,0,Returning,In-Store,Credit Card,7,Sports
+1572,East,22283.7661,15,09:54.6,177,77,0,New,Direct,Cash,3,Books
+1573,North,22848.8364,,21:04.9,198,45,0,Returning,Direct,Bank Transfer,9,Clothing
+1574,South,,,00:43.2,170,79,0,VIP,Online,Cash,8,Electronics
+1575,East,,5,01:15.7,112,20,0,New,Online,Cash,3,Health & Beauty
+1576,South,26645.76265,15,04:08.6,181,64,0,New,Direct,Bank Transfer,5,Electronics
+1577,North,20982.60585,10,35:18.9,112,93,0,New,Direct,Credit Card,7,Books
+1578,South,23545.01879,,13:09.2,199,93,1,VIP,Direct,Credit Card,4,Health & Beauty
+1579,South,19551.32153,,59:05.9,130,67,0,VIP,Online,Cash,5,Electronics
+1580,South,27200.58608,10,32:58.4,101,83,0,VIP,Direct,Bank Transfer,3,Health & Beauty
+1581,South,16618.03849,15,22:20.5,115,3,0,New,Direct,Cash,9,Toys
+1582,North,29004.70216,5,52:25.9,108,54,0,VIP,Online,Cash,10,Sports
+1583,West,19799.21025,5,32:15.1,172,78,0,Returning,In-Store,Cash,9,Clothing
+1584,South,12846.12449,,49:00.5,137,64,0,VIP,In-Store,Bank Transfer,7,Health & Beauty
+1585,South,20640.52207,10,58:11.9,174,40,0,New,Direct,Bank Transfer,10,Toys
+1586,East,16594.74171,,19:27.6,153,59,0,Returning,In-Store,Credit Card,2,Sports
+1587,South,,10,37:17.8,155,55,0,VIP,In-Store,Bank Transfer,7,Sports
+1588,East,16736.8801,5,57:17.8,185,62,0,Returning,In-Store,Cash,7,Home & Kitchen
+1589,West,17769.08283,15,51:31.9,196,4,0,Returning,In-Store,Cash,5,Electronics
+1590,North,10552.29635,10,18:22.7,199,60,0,New,Direct,Credit Card,9,Home & Kitchen
+1591,North,17738.4684,5,45:02.7,186,75,0,Returning,In-Store,Bank Transfer,3,Books
+1592,West,7880.603367,,14:03.2,144,95,1,Returning,In-Store,Cash,4,Toys
+1593,North,12080.48588,10,17:50.3,133,96,0,New,Online,Credit Card,1,Home & Kitchen
+1594,West,23802.07328,15,39:49.2,108,91,0,New,Direct,Credit Card,6,Home & Kitchen
+1595,West,23929.00079,,13:41.6,187,30,0,New,Online,Cash,4,Sports
+1596,West,,,32:47.6,107,2,0,Returning,Online,Cash,1,Toys
+1597,North,15165.11928,5,34:03.2,106,62,0,Returning,Direct,Bank Transfer,2,Sports
+1598,East,19761.44322,10,16:56.2,135,49,0,Returning,In-Store,Credit Card,3,Clothing
+1599,West,19981.9873,,27:23.2,117,9,0,New,Online,Cash,9,Health & Beauty
+1600,South,14208.17655,15,37:39.5,102,92,0,VIP,Direct,Credit Card,8,Books
+1601,North,27516.99151,10,56:23.8,127,31,0,Returning,In-Store,Bank Transfer,7,Books
+1602,West,24386.81145,15,56:23.8,169,98,0,VIP,Direct,Cash,4,Electronics
+1603,nan,18895.17913,,58:01.1,143,61,0,New,Online,Bank Transfer,1,Sports
+1604,South,20134.42919,15,06:29.2,120,79,0,Returning,In-Store,Credit Card,8,Health & Beauty
+1605,East,21041.91404,5,21:15.7,127,48,1,VIP,In-Store,Bank Transfer,4,Electronics
+1606,East,9791.325658,15,06:07.6,153,25,0,Returning,Direct,Bank Transfer,3,Books
+1607,East,18764.11309,10,06:50.8,153,36,0,Returning,In-Store,Credit Card,9,Health & Beauty
+1608,West,16590.07876,15,41:15.7,164,8,0,Returning,Online,Bank Transfer,10,Home & Kitchen
+1609,West,14991.89995,15,04:30.3,199,73,1,VIP,Online,Credit Card,4,Clothing
+1610,West,,5,27:34.1,120,58,0,New,Online,Cash,4,Home & Kitchen
+1611,North,28988.43263,15,45:35.1,198,45,0,Returning,Direct,Credit Card,9,Clothing
+1612,South,23204.21431,15,41:58.9,112,62,0,New,In-Store,Credit Card,2,Sports
+1613,West,17144.10505,,30:59.5,156,39,0,New,In-Store,Cash,5,Toys
+1614,South,22862.91391,,42:20.5,148,96,0,VIP,In-Store,Credit Card,4,Electronics
+1615,South,26996.77718,10,32:04.3,153,58,0,VIP,Online,Cash,9,Electronics
+1616,East,24623.16841,,13:41.6,109,81,0,New,In-Store,Cash,5,Toys
+1617,North,20298.15185,,16:45.4,152,99,0,Returning,Online,Credit Card,9,Health & Beauty
+1618,West,16765.31611,,25:56.8,143,83,0,VIP,In-Store,Bank Transfer,9,Toys
+1619,East,23491.11657,,40:21.6,146,64,0,Returning,Online,Bank Transfer,2,Sports
+1620,East,21967.42693,5,37:39.5,152,44,0,Returning,In-Store,Cash,9,Books
+1621,West,24475.9661,,34:14.1,173,29,0,Returning,Direct,Bank Transfer,3,Toys
+1622,South,23175.85901,5,30:59.5,145,59,0,New,Direct,Bank Transfer,4,Clothing
+1623,East,25247.76358,5,32:47.6,112,71,0,Returning,Online,Credit Card,1,Books
+1624,South,17323.82394,,18:11.9,136,92,0,New,Online,Cash,1,Toys
+1625,North,26586.97033,15,44:51.9,123,9,0,New,In-Store,Cash,1,Electronics
+1626,South,20987.99802,5,13:30.8,101,92,0,Returning,In-Store,Credit Card,9,Home & Kitchen
+1627,North,30376.30436,15,32:47.6,185,6,0,Returning,Direct,Bank Transfer,8,Clothing
+1628,South,16554.06091,15,36:56.2,180,29,0,Returning,In-Store,Cash,5,Sports
+1629,East,28679.81902,,11:10.3,199,58,0,Returning,Online,Bank Transfer,5,Clothing
+1630,East,20989.55392,10,53:52.4,113,17,0,New,Online,Cash,9,Health & Beauty
+1631,North,16742.90998,,54:46.5,109,16,0,Returning,Online,Cash,3,Home & Kitchen
+1632,West,17580.57083,10,54:46.5,134,87,0,Returning,Online,Cash,3,Clothing
+1633,North,18398.26346,10,37:50.3,124,95,0,New,Online,Cash,7,Toys
+1634,North,22120.82973,,21:37.3,102,3,0,VIP,Direct,Bank Transfer,9,Clothing
+1635,South,22614.17744,,35:18.9,116,21,0,VIP,Direct,Bank Transfer,6,Clothing
+1636,South,17131.49998,10,37:17.8,111,64,0,New,Online,Bank Transfer,2,Clothing
+1637,North,19878.22704,,58:55.1,153,90,1,VIP,In-Store,Bank Transfer,1,Health & Beauty
+1638,East,30711.35179,10,28:17.3,123,36,0,New,Online,Credit Card,2,Clothing
+1639,South,28637.71585,15,58:22.7,128,86,0,Returning,Direct,Cash,1,Clothing
+1640,West,22181.61835,,32:25.9,142,62,0,Returning,Online,Cash,10,Health & Beauty
+1641,South,20190.01739,15,00:54.1,124,42,0,VIP,Direct,Cash,10,Books
+1642,South,20600.15663,5,38:55.1,199,76,0,Returning,Direct,Credit Card,9,Home & Kitchen
+1643,West,23067.58986,15,55:40.5,159,42,0,VIP,Online,Bank Transfer,10,Sports
+1644,North,14886.03717,15,39:16.8,189,61,0,VIP,Online,Cash,8,Books
+1645,West,18713.11731,10,25:02.7,164,13,0,Returning,In-Store,Bank Transfer,7,Electronics
+1646,North,11657.07963,15,25:02.7,183,11,0,Returning,Direct,Bank Transfer,3,Health & Beauty
+1647,North,21996.11561,,47:55.7,127,54,0,VIP,In-Store,Credit Card,8,Health & Beauty
+1648,North,23235.9797,10,59:38.4,115,16,0,Returning,Online,Credit Card,2,Clothing
+1649,West,17584.06769,5,29:22.2,146,8,0,New,Direct,Bank Transfer,2,Clothing
+1650,nan,27869.93382,,57:17.8,180,59,0,Returning,In-Store,Cash,10,Sports
+1651,East,,5,56:23.8,191,57,0,Returning,In-Store,Cash,3,Electronics
+1652,West,12678.1256,15,41:37.3,157,40,0,New,In-Store,Credit Card,7,Clothing
+1653,nan,21122.25909,,43:25.4,175,59,0,Returning,Online,Credit Card,1,Toys
+1654,North,25235.49151,,48:49.7,126,2,0,Returning,Online,Credit Card,8,Clothing
+1655,South,28419.63846,5,33:30.8,152,94,0,VIP,Online,Credit Card,7,Clothing
+1656,North,17705.57869,,43:14.6,141,94,0,Returning,Direct,Credit Card,4,Toys
+1657,East,25393.40417,,15:18.9,158,76,0,Returning,Online,Credit Card,5,Electronics
+1658,East,19807.45765,,30:05.4,146,10,0,New,Direct,Credit Card,10,Toys
+1659,West,19136.8635,15,37:17.8,193,44,0,VIP,In-Store,Cash,1,Health & Beauty
+1660,South,24418.29969,5,45:02.7,133,11,0,VIP,In-Store,Credit Card,4,Toys
+1661,West,23261.61439,,50:05.4,136,79,0,VIP,Online,Credit Card,1,Home & Kitchen
+1662,East,12118.03922,10,00:00.0,105,80,0,Returning,In-Store,Cash,1,Health & Beauty
+1663,North,27382.70175,10,59:05.9,106,81,0,VIP,Online,Cash,10,Clothing
+1664,South,26900.45677,10,52:36.8,195,90,0,New,Direct,Bank Transfer,1,Sports
+1665,North,16872.18649,10,39:16.8,195,2,0,VIP,In-Store,Credit Card,7,Health & Beauty
+1666,North,21979.01767,15,51:21.1,124,50,0,New,Online,Credit Card,7,Electronics
+1667,South,22470.15093,,21:26.5,132,12,1,VIP,In-Store,Credit Card,4,Electronics
+1668,West,21303.36883,5,37:28.6,154,90,0,VIP,In-Store,Credit Card,2,Toys
+1669,North,17248.47423,,56:45.4,157,23,0,New,Online,Bank Transfer,3,Health & Beauty
+1670,East,16641.88316,15,45:13.5,106,18,0,VIP,In-Store,Cash,8,Clothing
+1671,North,19872.22965,10,11:10.3,156,62,0,VIP,In-Store,Cash,8,Electronics
+1672,South,25863.6451,15,23:14.6,111,96,0,VIP,In-Store,Credit Card,6,Books
+1673,South,22718.00077,,06:07.6,115,62,0,Returning,In-Store,Credit Card,10,Clothing
+1674,South,18146.92834,5,41:58.9,179,38,0,New,Direct,Credit Card,9,Books
+1675,West,23858.49355,15,10:05.4,142,67,0,VIP,In-Store,Bank Transfer,9,Home & Kitchen
+1676,nan,5757.286897,5,39:27.6,199,38,0,New,In-Store,Bank Transfer,4,Books
+1677,West,25743.8285,15,45:56.8,176,67,0,New,Online,Cash,1,Electronics
+1678,West,11301.43111,5,14:03.2,106,94,0,New,Direct,Credit Card,1,Toys
+1679,South,18187.79529,5,41:37.3,199,61,1,VIP,Online,Credit Card,10,Home & Kitchen
+1680,South,14401.65053,10,44:51.9,150,1,0,VIP,Online,Credit Card,5,Health & Beauty
+1681,West,13526.59262,5,58:01.1,172,94,0,New,Online,Credit Card,2,Clothing
+1682,North,25804.13394,10,47:44.9,131,45,0,Returning,Direct,Bank Transfer,6,Electronics
+1683,East,17661.49399,,09:11.4,174,96,1,New,Online,Cash,7,Home & Kitchen
+1684,West,21732.51941,,49:22.2,107,28,0,Returning,Online,Cash,1,Home & Kitchen
+1685,North,19765.39711,10,33:09.2,196,21,0,New,Online,Bank Transfer,6,Electronics
+1686,South,22385.20414,10,43:47.0,186,13,0,New,In-Store,Credit Card,8,Health & Beauty
+1687,South,20384.10946,15,56:13.0,188,27,0,New,Online,Cash,5,Health & Beauty
+1688,North,13585.03888,15,34:35.7,171,7,0,VIP,Direct,Cash,7,Toys
+1689,East,24981.3341,15,56:45.4,144,22,0,Returning,Direct,Bank Transfer,10,Sports
+1690,South,17531.21708,,01:04.9,185,74,1,Returning,In-Store,Credit Card,6,Books
+1691,South,12217.09051,15,13:52.4,158,53,0,New,Direct,Cash,4,Health & Beauty
+1692,South,17859.4242,5,09:22.2,103,79,0,VIP,Direct,Credit Card,7,Toys
+1693,North,27503.79895,5,24:51.9,166,79,0,VIP,In-Store,Cash,10,Books
+1694,West,24251.10871,15,06:29.2,128,4,0,Returning,Online,Bank Transfer,9,Home & Kitchen
+1695,South,18256.73933,5,31:21.1,128,96,0,VIP,In-Store,Credit Card,10,Electronics
+1696,West,,,32:58.4,197,23,0,Returning,Online,Bank Transfer,10,Health & Beauty
+1697,East,18391.82474,5,09:43.8,197,70,0,Returning,Online,Cash,7,Toys
+1698,South,30383.73992,,18:22.7,127,88,0,Returning,Direct,Bank Transfer,5,Home & Kitchen
+1699,South,21909.67726,10,08:49.7,176,84,0,VIP,In-Store,Bank Transfer,7,Health & Beauty
+1700,East,22150.20824,10,12:47.6,178,84,0,Returning,Direct,Bank Transfer,3,Clothing
+1701,South,25151.41727,10,56:13.0,186,76,0,Returning,Direct,Cash,2,Sports
+1702,West,21193.9458,10,07:12.4,143,33,0,New,Online,Credit Card,5,Home & Kitchen
+1703,North,18704.78927,5,38:11.9,189,28,1,Returning,Direct,Bank Transfer,4,Health & Beauty
+1704,West,19018.25075,15,52:58.4,103,8,0,Returning,In-Store,Credit Card,5,Home & Kitchen
+1705,North,19641.9937,5,09:43.8,189,1,1,New,Direct,Cash,8,Electronics
+1706,North,19813.88882,,02:53.0,108,37,0,New,Direct,Credit Card,4,Electronics
+1707,West,23638.14772,5,42:31.4,104,63,0,VIP,Online,Bank Transfer,9,Sports
+1708,West,20259.72943,5,12:04.3,155,22,0,Returning,In-Store,Bank Transfer,7,Electronics
+1709,West,23663.20039,,14:35.7,195,70,0,VIP,Direct,Bank Transfer,10,Books
+1710,West,19596.4171,10,58:01.1,183,21,0,VIP,Online,Bank Transfer,7,Clothing
+1711,East,20393.17595,10,52:15.1,149,96,0,New,Direct,Bank Transfer,8,Electronics
+1712,South,,10,50:48.6,174,35,0,VIP,In-Store,Bank Transfer,6,Clothing
+1713,North,24581.63837,15,50:27.0,114,79,0,Returning,Direct,Cash,8,Electronics
+1714,nan,21732.44238,,57:39.5,131,5,0,New,Direct,Cash,3,Books
+1715,West,24990.05055,,41:26.5,127,60,0,Returning,Online,Cash,10,Home & Kitchen
+1716,West,5518.723109,5,02:20.5,121,46,0,Returning,Direct,Credit Card,10,Health & Beauty
+1717,East,30441.87352,15,41:48.1,116,50,0,New,Online,Credit Card,1,Health & Beauty
+1718,West,19302.05186,10,31:31.9,158,48,0,Returning,In-Store,Cash,6,Electronics
+1719,West,25540.91408,15,16:13.0,189,6,0,New,Direct,Credit Card,1,Health & Beauty
+1720,West,14800.47036,,44:51.9,170,89,0,Returning,In-Store,Credit Card,9,Electronics
+1721,South,23063.86953,,24:08.6,156,56,0,New,In-Store,Bank Transfer,2,Electronics
+1722,East,14732.92218,5,45:02.7,125,59,0,VIP,Direct,Bank Transfer,2,Sports
+1723,West,16881.1552,5,04:08.6,124,29,0,Returning,Online,Credit Card,7,Toys
+1724,North,29570.15677,,00:00.0,109,71,0,New,In-Store,Credit Card,2,Toys
+1725,North,19046.588,10,43:03.8,144,77,0,Returning,In-Store,Cash,10,Sports
+1726,North,21087.16437,10,46:29.2,182,18,0,Returning,Direct,Credit Card,8,Toys
+1727,East,24350.33865,15,01:26.5,110,2,1,Returning,Direct,Bank Transfer,6,Clothing
+1728,East,22478.40944,,48:28.1,176,8,0,New,Direct,Credit Card,7,Toys
+1729,North,20752.09453,,18:44.3,152,75,0,VIP,Direct,Cash,7,Electronics
+1730,West,21824.80501,10,47:34.1,171,97,0,VIP,Direct,Bank Transfer,6,Books
+1731,East,32017.07793,10,59:16.8,167,54,0,VIP,Direct,Bank Transfer,10,Books
+1732,North,19711.90601,,13:20.0,194,38,0,New,Online,Bank Transfer,9,Home & Kitchen
+1733,North,21005.49523,5,39:16.8,127,48,0,VIP,In-Store,Bank Transfer,9,Toys
+1734,West,25253.27198,,53:09.2,174,27,0,New,Online,Credit Card,7,Books
+1735,South,25527.62966,,30:48.6,164,20,1,Returning,Online,Cash,9,Toys
+1736,East,25935.15153,10,18:55.1,148,12,0,Returning,Direct,Credit Card,10,Home & Kitchen
+1737,nan,23193.65111,10,15:08.1,146,43,0,VIP,In-Store,Credit Card,3,Books
+1738,North,,5,13:20.0,151,61,0,New,Online,Bank Transfer,3,Electronics
+1739,North,28167.15766,5,55:18.9,187,31,0,Returning,Direct,Cash,1,Clothing
+1740,West,14268.27303,15,41:15.7,153,91,0,New,Direct,Bank Transfer,5,Sports
+1741,East,21513.17733,,09:22.2,159,96,0,New,In-Store,Credit Card,4,Sports
+1742,South,16228.62075,10,27:01.6,156,61,0,Returning,Online,Credit Card,2,Sports
+1743,South,19679.30827,5,02:53.0,146,74,0,New,Online,Bank Transfer,9,Toys
+1744,North,21643.81205,15,14:14.1,130,67,0,Returning,Online,Credit Card,3,Books
+1745,East,21606.78608,15,25:35.1,145,91,1,Returning,Direct,Credit Card,8,Books
+1746,South,22109.60377,10,21:48.1,125,35,0,Returning,In-Store,Bank Transfer,6,Home & Kitchen
+1747,East,28068.55635,10,08:28.1,104,95,0,New,In-Store,Credit Card,5,Electronics
+1748,East,22267.67151,15,20:54.1,183,15,1,Returning,Online,Cash,1,Health & Beauty
+1749,North,18779.21682,5,54:57.3,151,16,0,New,Direct,Bank Transfer,4,Books
+1750,South,24820.43584,15,43:57.8,174,13,0,Returning,Online,Cash,3,Clothing
+1751,West,25947.35244,,49:54.6,153,35,0,Returning,In-Store,Credit Card,1,Home & Kitchen
+1752,North,13861.96092,,42:09.7,132,75,0,VIP,Direct,Credit Card,5,Books
+1753,South,22987.00035,10,43:36.2,149,59,0,VIP,Online,Bank Transfer,6,Books
+1754,South,23505.86371,5,26:50.8,137,21,0,VIP,Online,Credit Card,2,Home & Kitchen
+1755,South,18512.18248,5,58:22.7,126,54,1,New,Direct,Bank Transfer,3,Home & Kitchen
+1756,South,26878.53407,,15:29.7,197,75,0,New,In-Store,Bank Transfer,6,Toys
+1757,South,,15,42:09.7,114,30,0,Returning,Direct,Bank Transfer,4,Books
+1758,East,20627.88227,10,52:04.3,195,48,0,Returning,Online,Bank Transfer,9,Health & Beauty
+1759,North,19134.64088,15,39:16.8,160,35,1,Returning,Online,Bank Transfer,5,Clothing
+1760,East,20077.89524,15,47:01.6,120,86,0,Returning,Online,Cash,4,Electronics
+1761,West,,15,12:58.4,145,38,1,New,Online,Bank Transfer,2,Electronics
+1762,South,12799.74559,5,00:32.4,168,31,0,Returning,In-Store,Cash,6,Health & Beauty
+1763,North,27972.52532,,14:46.5,105,78,0,Returning,In-Store,Credit Card,10,Home & Kitchen
+1764,South,15765.19326,5,00:00.0,137,24,0,VIP,Online,Bank Transfer,2,Home & Kitchen
+1765,North,,,56:13.0,161,49,0,Returning,In-Store,Credit Card,7,Home & Kitchen
+1766,East,9233.049432,10,02:20.5,185,96,0,Returning,In-Store,Bank Transfer,3,Books
+1767,North,16805.19126,10,21:58.9,161,32,0,Returning,In-Store,Cash,9,Home & Kitchen
+1768,nan,13384.55103,15,25:45.9,181,55,0,New,Online,Cash,5,Home & Kitchen
+1769,nan,28210.0758,,48:38.9,177,79,0,VIP,Direct,Cash,8,Books
+1770,North,25049.08545,,20:43.2,173,58,0,Returning,Direct,Credit Card,6,Books
+1771,North,16559.24827,,40:54.1,145,99,1,Returning,Direct,Bank Transfer,10,Health & Beauty
+1772,North,31262.17903,15,53:09.2,112,3,0,VIP,Online,Credit Card,8,Toys
+1773,North,24908.82743,15,16:02.2,194,80,0,Returning,In-Store,Cash,3,Books
+1774,West,18375.84308,10,49:00.5,193,69,0,New,In-Store,Credit Card,3,Clothing
+1775,South,7502.971426,5,58:33.5,102,85,0,Returning,Online,Cash,5,Home & Kitchen
+1776,North,31454.71286,,11:53.5,193,10,0,New,Online,Cash,10,Toys
+1777,North,,,40:00.0,105,83,0,New,Direct,Cash,3,Electronics
+1778,West,11773.00627,5,17:50.3,192,25,0,Returning,Direct,Bank Transfer,8,Health & Beauty
+1779,West,25112.85216,,49:43.8,107,68,0,VIP,Online,Bank Transfer,10,Toys
+1780,East,32198.76203,15,26:50.8,143,61,0,New,Direct,Cash,8,Books
+1781,North,26921.36409,15,26:50.8,132,29,0,VIP,In-Store,Credit Card,2,Home & Kitchen
+1782,East,22819.5456,,07:34.1,180,19,0,Returning,Online,Credit Card,4,Home & Kitchen
+1783,West,22973.77171,15,35:18.9,174,43,0,New,Online,Bank Transfer,10,Home & Kitchen
+1784,West,24267.07779,15,21:15.7,176,66,0,Returning,In-Store,Cash,1,Toys
+1785,South,23794.64295,,47:44.9,149,74,0,VIP,In-Store,Credit Card,4,Home & Kitchen
+1786,North,21405.95712,10,49:43.8,110,61,0,Returning,In-Store,Cash,4,Books
+1787,East,20521.00552,5,42:20.5,194,43,1,Returning,Direct,Credit Card,10,Toys
+1788,West,19687.03436,15,37:07.0,127,25,0,New,Online,Bank Transfer,9,Home & Kitchen
+1789,West,16230.17706,10,46:07.6,169,20,0,Returning,Direct,Cash,3,Electronics
+1790,East,18596.62462,15,18:22.7,140,48,0,Returning,In-Store,Cash,2,Electronics
+1791,South,,15,27:55.7,115,83,0,Returning,Direct,Credit Card,9,Clothing
+1792,nan,19508.30187,5,59:05.9,167,87,0,New,In-Store,Credit Card,9,Home & Kitchen
+1793,North,15057.04446,15,00:43.2,198,24,0,VIP,Direct,Credit Card,1,Home & Kitchen
+1794,West,14482.05341,5,18:44.3,147,11,0,VIP,Direct,Cash,6,Toys
+1795,North,20899.47076,5,05:24.3,155,98,0,Returning,In-Store,Bank Transfer,10,Toys
+1796,East,26960.01143,5,37:28.6,163,55,0,New,Direct,Bank Transfer,8,Sports
+1797,North,24591.58303,10,41:04.9,158,28,0,Returning,Online,Credit Card,3,Home & Kitchen
+1798,East,12147.49698,,16:34.6,189,69,0,VIP,Direct,Bank Transfer,9,Clothing
+1799,North,15051.85932,10,39:49.2,161,63,0,New,Direct,Credit Card,2,Home & Kitchen
+1800,East,24703.85594,,01:04.9,175,59,0,VIP,Online,Bank Transfer,6,Books
+1801,North,15087.56303,,04:08.6,110,5,0,VIP,In-Store,Cash,1,Toys
+1802,South,18876.83425,5,52:58.4,188,51,0,New,Online,Credit Card,7,Home & Kitchen
+1803,North,22750.2605,15,09:54.6,117,21,0,New,Direct,Bank Transfer,3,Toys
+1804,North,15158.27773,5,47:23.2,118,12,0,Returning,In-Store,Cash,7,Home & Kitchen
+1805,South,20526.87753,15,32:04.3,186,50,0,Returning,Direct,Bank Transfer,4,Health & Beauty
+1806,West,13329.87253,,30:37.8,154,4,0,VIP,Direct,Cash,9,Toys
+1807,West,,5,30:16.2,181,42,0,New,Online,Cash,5,Clothing
+1808,North,21598.90967,15,43:25.4,125,84,0,New,Online,Bank Transfer,3,Health & Beauty
+1809,South,12035.03133,10,52:25.9,105,38,0,Returning,In-Store,Bank Transfer,8,Books
+1810,North,22202.37369,15,49:54.6,103,25,0,VIP,In-Store,Cash,6,Home & Kitchen
+1811,East,19901.81101,5,40:54.1,128,14,0,VIP,In-Store,Cash,2,Sports
+1812,East,22762.44977,10,15:08.1,158,75,0,Returning,Direct,Cash,3,Books
+1813,North,21119.57067,15,41:48.1,197,32,0,New,Online,Credit Card,8,Toys
+1814,West,26820.70215,15,35:51.4,116,11,0,Returning,Online,Cash,10,Health & Beauty
+1815,West,20626.12251,15,43:03.8,142,61,0,Returning,Online,Credit Card,7,Books
+1816,North,17852.97229,15,33:41.6,179,18,0,Returning,In-Store,Cash,10,Clothing
+1817,North,20611.48752,15,32:36.8,165,27,0,Returning,Online,Credit Card,6,Sports
+1818,East,22716.49015,10,47:23.2,133,55,0,New,Online,Cash,1,Toys
+1819,West,20244.30035,,42:31.4,107,54,0,Returning,Online,Cash,9,Health & Beauty
+1820,North,20202.95846,10,30:48.6,112,82,1,New,In-Store,Cash,3,Books
+1821,East,16490.04156,10,24:41.1,107,87,0,Returning,Online,Bank Transfer,5,Health & Beauty
+1822,West,16685.49541,10,33:41.6,193,75,0,VIP,In-Store,Bank Transfer,7,Health & Beauty
+1823,South,12986.97364,,56:56.2,195,21,0,New,Online,Cash,7,Books
+1824,East,28747.88372,5,23:14.6,199,44,0,VIP,Online,Credit Card,3,Electronics
+1825,West,13780.68382,,51:10.3,193,5,0,Returning,Online,Credit Card,4,Home & Kitchen
+1826,West,16535.47401,10,27:34.1,164,87,0,Returning,In-Store,Cash,10,Toys
+1827,East,16407.96367,15,57:17.8,142,41,0,Returning,In-Store,Bank Transfer,7,Toys
+1828,South,24474.62188,15,19:16.8,138,59,1,New,Online,Credit Card,8,Sports
+1829,East,18525.25161,10,47:34.1,180,89,0,VIP,Direct,Bank Transfer,2,Sports
+1830,West,,15,05:02.7,158,54,0,New,In-Store,Credit Card,9,Sports
+1831,North,16632.54688,10,04:08.6,183,74,0,New,In-Store,Cash,7,Toys
+1832,North,21394.97081,15,46:07.6,187,22,0,Returning,Online,Bank Transfer,8,Health & Beauty
+1833,East,15823.26473,,18:44.3,185,83,0,VIP,Direct,Credit Card,6,Sports
+1834,West,30725.74564,5,02:42.2,192,65,0,Returning,Online,Cash,6,Books
+1835,North,14062.0079,5,30:16.2,185,64,0,New,In-Store,Cash,9,Home & Kitchen
+1836,West,21549.10355,,21:04.9,143,71,0,Returning,In-Store,Cash,4,Clothing
+1837,East,23168.8844,,40:00.0,108,4,0,VIP,Online,Bank Transfer,5,Toys
+1838,North,22068.99549,10,34:57.3,136,65,1,Returning,Online,Bank Transfer,9,Books
+1839,West,19073.56171,10,02:20.5,173,15,0,VIP,Direct,Cash,1,Home & Kitchen
+1840,North,19350.8965,10,30:16.2,135,76,1,VIP,Direct,Bank Transfer,4,Home & Kitchen
+1841,East,20219.05736,15,02:31.4,191,22,0,Returning,In-Store,Credit Card,7,Electronics
+1842,West,19264.98999,10,09:00.5,127,86,0,New,Direct,Cash,9,Books
+1843,North,24819.39558,,45:56.8,141,47,0,Returning,Direct,Cash,10,Toys
+1844,East,31052.61501,5,30:37.8,142,81,0,New,In-Store,Bank Transfer,6,Sports
+1845,North,17212.54107,15,31:31.9,184,93,0,New,In-Store,Cash,8,Health & Beauty
+1846,North,13150.9851,10,32:04.3,187,46,0,Returning,In-Store,Credit Card,9,Sports
+1847,South,19558.58976,15,23:14.6,141,14,0,New,In-Store,Bank Transfer,10,Home & Kitchen
+1848,South,32898.54669,15,01:58.9,165,50,0,New,Online,Bank Transfer,4,Home & Kitchen
+1849,East,15981.62716,10,06:29.2,154,20,0,Returning,In-Store,Cash,1,Clothing
+1850,South,28195.58403,15,57:50.3,171,50,0,Returning,In-Store,Cash,8,Sports
+1851,East,28388.50407,5,11:53.5,147,33,0,Returning,In-Store,Cash,2,Electronics
+1852,South,17232.05879,,47:23.2,190,59,0,New,Direct,Bank Transfer,1,Home & Kitchen
+1853,North,22844.9154,,39:49.2,121,43,0,VIP,In-Store,Cash,7,Home & Kitchen
+1854,East,28141.98312,5,44:19.5,126,79,0,New,Online,Credit Card,10,Health & Beauty
+1855,East,18104.3613,15,59:38.4,192,12,1,VIP,Online,Cash,9,Health & Beauty
+1856,North,18982.0982,10,24:51.9,166,40,0,Returning,In-Store,Cash,9,Clothing
+1857,East,17091.59543,15,05:02.7,112,20,0,VIP,Online,Bank Transfer,3,Books
+1858,East,14926.21635,5,45:35.1,144,94,0,Returning,Direct,Cash,6,Clothing
+1859,South,16753.61227,15,00:32.4,109,38,0,Returning,In-Store,Bank Transfer,7,Clothing
+1860,East,13880.29867,,06:29.2,199,3,0,VIP,Online,Cash,10,Health & Beauty
+1861,West,20170.41734,15,00:00.0,108,28,0,Returning,Online,Credit Card,9,Sports
+1862,North,16150.13384,5,46:07.6,153,56,0,VIP,In-Store,Credit Card,2,Sports
+1863,South,,,06:18.4,126,90,0,Returning,Online,Bank Transfer,8,Sports
+1864,South,12220.52177,15,17:39.5,133,94,0,New,In-Store,Bank Transfer,7,Books
+1865,West,21654.40116,15,46:18.4,100,13,0,New,Online,Cash,4,Health & Beauty
+1866,North,,,56:45.4,131,77,0,Returning,Direct,Cash,2,Electronics
+1867,North,10031.32179,10,44:41.1,188,66,1,Returning,Online,Credit Card,8,Toys
+1868,South,21870.28285,,35:29.7,192,37,0,VIP,Online,Cash,5,Toys
+1869,East,26138.34496,10,27:55.7,170,49,0,New,In-Store,Credit Card,6,Electronics
+1870,South,13951.79491,5,20:21.6,166,66,0,VIP,Online,Bank Transfer,7,Sports
+1871,North,28362.86193,5,25:35.1,183,36,0,Returning,In-Store,Cash,10,Toys
+1872,West,22095.09505,,28:17.3,119,54,1,Returning,Direct,Bank Transfer,1,Books
+1873,South,16474.94072,,34:46.5,193,26,0,VIP,In-Store,Cash,8,Health & Beauty
+1874,North,19721.15461,5,53:52.4,134,75,0,Returning,In-Store,Credit Card,4,Toys
+1875,South,22791.63456,10,42:09.7,198,72,0,New,Online,Bank Transfer,9,Books
+1876,East,,5,49:43.8,190,40,0,VIP,Direct,Bank Transfer,1,Health & Beauty
+1877,South,22693.77996,,14:35.7,189,43,0,New,In-Store,Cash,2,Books
+1878,South,15396.63203,5,47:34.1,177,22,0,New,Online,Bank Transfer,6,Electronics
+1879,North,20846.80412,,21:48.1,116,20,1,New,Online,Credit Card,10,Clothing
+1880,North,12931.42752,,27:12.4,117,8,0,VIP,In-Store,Bank Transfer,1,Electronics
+1881,North,19443.86969,5,16:02.2,144,29,0,Returning,Online,Bank Transfer,4,Toys
+1882,South,15480.46179,10,49:33.0,192,40,0,New,In-Store,Cash,8,Health & Beauty
+1883,nan,16322.35029,15,25:13.5,183,90,0,New,In-Store,Bank Transfer,10,Books
+1884,West,26180.46588,5,40:54.1,152,30,0,New,In-Store,Cash,5,Toys
+1885,West,25456.5506,15,20:21.6,190,81,0,Returning,Direct,Cash,9,Toys
+1886,North,23045.6906,5,19:49.2,181,84,0,Returning,In-Store,Bank Transfer,6,Clothing
+1887,North,14538.43618,15,44:30.3,167,55,0,VIP,Online,Credit Card,1,Sports
+1888,South,18417.95775,10,38:44.3,164,16,0,Returning,Direct,Cash,6,Toys
+1889,West,26065.4885,10,09:11.4,100,46,0,VIP,Online,Bank Transfer,6,Clothing
+1890,North,20708.58457,5,00:10.8,157,62,0,VIP,Direct,Cash,6,Health & Beauty
+1891,East,31596.6477,,49:54.6,125,7,0,VIP,Direct,Credit Card,8,Health & Beauty
+1892,East,21966.5892,15,35:08.1,119,80,0,VIP,Direct,Credit Card,6,Books
+1893,North,20960.24558,,06:07.6,186,45,0,VIP,Direct,Cash,5,Sports
+1894,North,18454.41768,,09:43.8,109,59,0,New,Online,Credit Card,2,Clothing
+1895,West,20667.70452,,22:09.7,158,56,0,Returning,In-Store,Bank Transfer,4,Electronics
+1896,West,19237.65082,10,40:54.1,174,48,1,New,Online,Bank Transfer,10,Health & Beauty
+1897,South,23540.54338,5,02:53.0,140,27,0,VIP,In-Store,Cash,5,Sports
+1898,West,24783.51158,5,54:46.5,104,53,0,Returning,Online,Credit Card,10,Books
+1899,East,,10,02:20.5,164,87,0,New,Direct,Bank Transfer,4,Electronics
+1900,East,13343.83523,10,20:43.2,116,88,0,New,Direct,Bank Transfer,2,Health & Beauty
+1901,North,10818.97313,5,11:42.7,121,73,0,VIP,In-Store,Bank Transfer,7,Health & Beauty
+1902,West,22539.95663,,07:55.7,197,35,1,New,In-Store,Cash,10,Books
+1903,South,14483.16697,15,22:09.7,140,51,0,New,Online,Cash,10,Books
+1904,East,9235.547035,15,45:24.3,192,84,1,New,In-Store,Bank Transfer,2,Home & Kitchen
+1905,nan,21942.89302,15,18:11.9,167,37,1,New,Online,Bank Transfer,1,Toys
+1906,South,32464.99759,,31:53.5,168,81,0,New,In-Store,Credit Card,5,Toys
+1907,South,19969.64544,5,41:15.7,110,95,0,VIP,In-Store,Credit Card,1,Electronics
+1908,nan,24192.45387,10,54:35.7,155,57,0,VIP,In-Store,Credit Card,1,Toys
+1909,East,20409.14679,5,16:56.2,150,8,0,New,Direct,Cash,1,Electronics
+1910,South,19505.55173,,46:50.8,120,79,0,VIP,Direct,Bank Transfer,6,Sports
+1911,East,24595.38241,10,18:11.9,198,95,0,VIP,Online,Cash,9,Health & Beauty
+1912,North,18548.62728,,11:42.7,175,94,0,Returning,In-Store,Bank Transfer,10,Home & Kitchen
+1913,North,21336.96157,15,42:20.5,125,20,0,New,Online,Credit Card,1,Home & Kitchen
+1914,South,21608.48903,15,35:08.1,118,53,0,VIP,In-Store,Credit Card,5,Health & Beauty
+1915,West,16659.54773,,39:16.8,159,12,0,VIP,Direct,Credit Card,9,Books
+1916,South,24960.21175,10,38:33.5,170,49,0,New,Direct,Credit Card,9,Clothing
+1917,South,19125.20122,10,03:36.2,146,17,0,Returning,In-Store,Bank Transfer,1,Clothing
+1918,West,16221.2742,5,09:22.2,170,64,0,New,In-Store,Credit Card,8,Toys
+1919,West,22682.54922,15,21:04.9,125,42,0,Returning,Direct,Bank Transfer,1,Books
+1920,West,15507.66009,5,58:22.7,139,94,0,New,Direct,Bank Transfer,8,Electronics
+1921,North,20140.90579,5,54:35.7,104,29,0,New,Online,Cash,1,Sports
+1922,East,19954.40502,,14:03.2,120,19,0,New,Direct,Credit Card,5,Home & Kitchen
+1923,North,25429.47783,,49:22.2,177,11,0,New,In-Store,Credit Card,8,Toys
+1924,East,22373.49116,5,36:45.4,103,98,0,Returning,Online,Cash,6,Health & Beauty
+1925,North,19874.86521,15,00:10.8,122,50,0,Returning,In-Store,Bank Transfer,9,Books
+1926,East,24088.8315,,07:23.2,183,71,0,VIP,Online,Credit Card,1,Home & Kitchen
+1927,North,26951.03775,5,23:14.6,114,58,0,New,In-Store,Bank Transfer,9,Electronics
+1928,West,22789.05153,5,38:01.1,192,34,0,Returning,Direct,Cash,1,Electronics
+1929,South,20051.7631,5,26:18.4,107,20,0,Returning,In-Store,Bank Transfer,10,Clothing
+1930,North,13440.81884,5,54:03.2,140,50,0,Returning,Online,Credit Card,10,Toys
+1931,East,14674.43168,5,57:39.5,118,88,0,New,In-Store,Bank Transfer,3,Health & Beauty
+1932,West,18473.87648,5,40:10.8,145,10,0,VIP,Online,Bank Transfer,1,Home & Kitchen
+1933,North,16952.43899,,21:26.5,127,32,0,Returning,In-Store,Credit Card,3,Sports
+1934,North,19065.14349,15,59:49.2,190,52,0,New,Direct,Credit Card,2,Electronics
+1935,West,20283.24962,5,10:05.4,167,15,0,Returning,Direct,Bank Transfer,2,Home & Kitchen
+1936,North,22648.46377,10,43:25.4,114,84,0,Returning,In-Store,Bank Transfer,9,Health & Beauty
+1937,South,19647.50611,,20:10.8,198,3,0,VIP,In-Store,Cash,8,Home & Kitchen
+1938,North,22432.50822,,36:13.0,136,37,0,Returning,In-Store,Credit Card,1,Toys
+1939,South,20322.37207,5,19:05.9,100,40,0,Returning,Online,Bank Transfer,4,Clothing
+1940,South,10122.66717,,49:22.2,166,72,0,New,In-Store,Credit Card,1,Home & Kitchen
+1941,West,15303.32303,5,25:02.7,123,40,0,New,In-Store,Cash,1,Books
+1942,North,19279.56222,15,08:49.7,126,56,0,VIP,Online,Bank Transfer,4,Clothing
+1943,West,13951.52629,15,39:16.8,139,23,1,New,Direct,Bank Transfer,2,Health & Beauty
+1944,North,22999.64365,,21:58.9,162,11,0,New,In-Store,Bank Transfer,3,Clothing
+1945,North,27653.75416,,31:53.5,160,64,0,VIP,In-Store,Credit Card,9,Home & Kitchen
+1946,East,26093.80926,10,08:49.7,135,8,0,Returning,Direct,Cash,2,Home & Kitchen
+1947,North,18932.78565,,37:39.5,197,93,0,VIP,Direct,Credit Card,4,Books
+1948,West,27453.63068,10,58:44.3,192,94,0,New,Online,Bank Transfer,1,Electronics
+1949,South,20743.33729,15,57:39.5,123,56,0,VIP,In-Store,Cash,2,Books
+1950,North,18314.57014,15,39:49.2,123,60,0,Returning,In-Store,Bank Transfer,5,Home & Kitchen
+1951,East,16932.98668,5,53:09.2,103,10,0,VIP,Online,Bank Transfer,10,Sports
+1952,West,,15,32:58.4,166,39,0,New,Direct,Credit Card,1,Clothing
+1953,North,18059.11591,10,06:29.2,133,28,0,New,Online,Bank Transfer,7,Books
+1954,West,20852.08111,,20:10.8,156,49,0,VIP,Direct,Cash,4,Books
+1955,East,20802.86991,5,45:56.8,148,36,0,Returning,Online,Bank Transfer,6,Sports
+1956,East,20015.2301,10,11:10.3,186,13,0,VIP,Direct,Bank Transfer,8,Sports
+1957,West,22184.69085,,25:45.9,152,96,0,Returning,Online,Credit Card,6,Sports
+1958,North,25953.23137,5,09:43.8,122,36,0,Returning,Direct,Cash,2,Electronics
+1959,South,24747.77068,15,09:54.6,168,26,0,VIP,Direct,Credit Card,1,Home & Kitchen
+1960,East,12575.51016,10,48:17.3,194,86,0,Returning,Direct,Bank Transfer,8,Home & Kitchen
+1961,North,7230.394325,,49:11.4,152,4,1,New,Direct,Credit Card,8,Health & Beauty
+1962,North,24671.59956,5,16:34.6,161,95,0,VIP,Direct,Credit Card,9,Electronics
+1963,South,13165.60651,5,54:46.5,140,82,0,Returning,In-Store,Credit Card,6,Health & Beauty
+1964,East,18876.17299,15,51:10.3,156,64,0,New,Direct,Credit Card,1,Health & Beauty
+1965,East,14149.43487,,12:36.8,159,38,0,VIP,In-Store,Bank Transfer,9,Health & Beauty
+1966,North,10990.09781,15,40:21.6,153,88,0,New,Direct,Bank Transfer,3,Toys
+1967,North,22707.31364,15,27:34.1,169,87,0,New,In-Store,Cash,6,Health & Beauty
+1968,South,23795.7758,,05:24.3,156,22,0,New,In-Store,Credit Card,10,Books
+1969,South,17117.448,,54:46.5,109,2,0,Returning,Online,Credit Card,10,Clothing
+1970,East,7044.788539,,43:47.0,139,31,0,VIP,Direct,Cash,9,Books
+1971,West,17268.77776,10,03:25.4,106,11,0,VIP,Online,Credit Card,3,Books
+1972,East,21959.02003,,07:23.2,137,92,0,Returning,Online,Cash,5,Home & Kitchen
+1973,North,12605.44216,5,48:17.3,184,46,0,VIP,Direct,Bank Transfer,5,Toys
+1974,East,20916.7996,15,26:40.0,160,96,0,New,Online,Cash,10,Health & Beauty
+1975,West,19923.45075,10,32:25.9,183,62,0,VIP,Direct,Credit Card,7,Home & Kitchen
+1976,South,22896.4575,,13:30.8,102,69,0,Returning,Online,Cash,4,Electronics
+1977,West,20597.90184,10,56:02.2,150,64,0,New,Direct,Bank Transfer,4,Electronics
+1978,West,15134.6553,,50:05.4,185,10,0,Returning,Direct,Credit Card,7,Home & Kitchen
+1979,West,25982.85751,10,44:19.5,146,40,0,New,Direct,Bank Transfer,9,Clothing
+1980,South,19207.35213,15,12:58.4,167,24,0,New,In-Store,Bank Transfer,4,Home & Kitchen
+1981,West,19863.4773,15,52:15.1,191,99,0,VIP,Online,Cash,4,Home & Kitchen
+1982,West,15333.6602,5,01:04.9,175,44,0,New,In-Store,Bank Transfer,6,Toys
+1983,West,17783.58874,5,07:12.4,137,60,0,Returning,Online,Credit Card,6,Electronics
+1984,North,15575.98643,,58:22.7,135,62,1,VIP,Online,Bank Transfer,7,Electronics
+1985,West,19135.2697,15,45:35.1,140,87,0,Returning,Online,Bank Transfer,1,Health & Beauty
+1986,South,28558.5424,10,01:26.5,168,17,0,New,In-Store,Cash,3,Books
+1987,West,13140.49429,10,32:25.9,112,65,0,Returning,Online,Bank Transfer,9,Home & Kitchen
+1988,West,11932.19301,10,49:33.0,186,95,0,Returning,In-Store,Cash,6,Home & Kitchen
+1989,South,27355.85164,5,42:42.2,157,95,0,New,Direct,Cash,6,Clothing
+1990,West,18953.38161,10,23:14.6,149,57,0,VIP,Online,Credit Card,5,Sports
+1991,South,16654.63631,5,44:08.6,129,55,0,Returning,Online,Credit Card,3,Sports
+1992,West,25199.52344,5,47:01.6,161,53,1,New,Direct,Credit Card,5,Electronics
+1993,South,16971.9223,,44:41.1,124,56,1,VIP,Direct,Credit Card,1,Clothing
+1994,West,29130.04857,10,22:31.4,126,98,0,VIP,Online,Cash,3,Toys
+1995,West,23389.62936,10,52:58.4,150,9,0,VIP,Direct,Bank Transfer,4,Health & Beauty
+1996,North,17560.44296,15,52:36.8,177,22,0,Returning,In-Store,Credit Card,5,Clothing
+1997,North,30786.54107,,40:21.6,156,13,0,Returning,In-Store,Credit Card,10,Electronics
+1998,West,16971.42538,15,37:17.8,146,89,0,Returning,Online,Credit Card,9,Toys
+1999,West,23710.47686,,33:41.6,199,48,0,VIP,In-Store,Bank Transfer,4,Home & Kitchen
+2000,East,21496.4629,10,41:48.1,138,18,0,Returning,In-Store,Credit Card,3,Toys
